@@ -14,16 +14,18 @@ This repository contains the class materials for the [Research Methods, Data Sci
 |:---:|:----------|:-----------|:------|
 | 1  | Mon 30 Jul | KB, SM     | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
 | 2  | Tue 31 Jul | KB         | [The Shape of Data](#2-the-shape-of-data) |
-| 3  | Wed 1 Aug  | KB         | [Working with Databases](#3-working-with-Databases) |
+| 3  | Wed 1 Aug  | KB         | [Working with Databases](#3-working-with-databases) |
 | 4  | Thu 2 Aug  | KB         | [Linear Regression](#4-linear-regression) |
 | 5  | Mon 6 Aug  | SM         | [Classification](#5-classification) |
 | 6  | Tue 7 Aug  | SM         | [Resampling methods, model selection and regularization](#6-resampling-methods-model-selection-and-regularization) |
 | 7  | Wed 8 Aug  | SM         | [Non-linear models and tree-based methods](#7-non-linear-models-and-tree-based-methods) |
-| 8  | Thu 9 Aug  | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning and-dimensional-reduction) |
+| 8  | Thu 9 Aug  | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
 | 9  | Mon 13 Aug | JB         | [Text analysis](#9-text-analysis) |
 | 10 | Tue 14 Aug | JB         | [Topic modelling](#10-topic-modelling) |
 | 11 | Wed 15 Aug | JB         | [Mining the Social ](#11-mining-the-social-web) |
 | 12 | Thu 16 Aug | KB         | [Network Analysis](#12-network-analysis) |
+| 13 | Fri 17 Aug |            | [Final Exam](#assessment) |
+
 
 
 ### Overview
@@ -104,43 +106,6 @@ The following are supplemental texts which you may also find useful:
 * Hastie et al. (2009) _The Elements of Statistical Learning: Data mining, inference, and prediction_. Springer. Note: The book is available from the authors' page [here](http://statweb.stanford.edu/~tibs/ElemStatLearn/).
 
 
-
-#### Instructions for Submitting Homeworks
-
-Each homework will be a single file in the [RMarkdown](http://rmarkdown.rstudio.com) format.  The files linked below are *named very carefully*, to make it easy for us to identify your completed lab assignments.  
-
-1.  Obtaining the starter files.  
-
-    Each day below will link the name of a starter file for you to download and work with.  These are in the RMarkdown format.  You should embed your answers, with code, into your version of the instruction files.
-
-2.  Renaming the starter files.  
-
-    For example, the first assignment file is named `ME314_assignment1_LASTNAME_FIRSTNAME.Rmd`, which you will need to rename by replacing the uppercase terms with your own last and first names, e.g.  `ME314_assignment1_Bloggs_Joe.Rmd`.
-
-3.  From RStudio, you can create an HTML output file with your evaluated code, figure, and text answers by clicking the "Knit HTML" button in the top of the editor pane in RStudio.  The resulting HTML file will be saved in your working directory.
-
-4.  You will need to upload the resulting HTML file -- renamed! -- to the [course Moodle page](https://shortcourses.lse.ac.uk/course/view.php?id=158), to the appropriate assignment folder.  
-
-We will walk you through this process in the Day 1 lab, so don't worry if it seems complicated the first time.  This sort of careful workflow process and file management is part of learning practical data science too!
-
-We do not mark the homework but we will walk through the solutions at the start of computer labs the following day.
-
-
-#### Instructions for use of course materials
-
-You have three options for downloading the course material found on this page:  
-
-1.  You can download the materials by clicking on each link.  
-
-2.  You can "clone" repository, using the buttons found to the right side of your browser window as you view this repository.  This is the button labelled "Clone in Desktop".  If you do not have a git client installed on your system, you will need to [get one here](https://git-scm.com/download/gui) and also to make sure that [git is installed](https://git-scm.com/downloads).  This is preferred, since you can refresh your clone as new content gets pushed to the course repository.  (And new material will get actively pushed to the course repository at least once per day as this course takes place.)
-
-3.  Statically, you can choose the button on the right marked "Download zip" which will download the entire repository as a zip file.
-
-You can also subscribe to the repository if you have [a GitHub account](https://github.com), which will send you updates each time new changes are pushed to the repository.
-
-You can read more about using GitHub with RStudio in Hadley Wickham's _R Packages_ [book Chapter 13](http://r-pkgs.had.co.nz/git.html).
-
-
 ### Instructors
 
 **Kenneth Benoit** is Professor of Quantitative Social Research Methods at the Department of Methodology, LSE. With a background in political science, his substantive work focuses on political party competition, political measurement issues, and electoral systems. His research and teaching is primarily in the field of social science statistical applications. His recent work concerns the quantitative analysis of text as data, for which he has developed a package for the R statistical software.
@@ -151,7 +116,26 @@ You can read more about using GitHub with RStudio in Hadley Wickham's _R Package
 **Dr. Jack Blumenau** is a Lecturer in Quantitative Methods at the UCL Department of Political Science. he was previously an ESRC "Future Research Leader" post-doc in the Methodology Department at the LSE. His research explores the effects of legislative leaders on the behaviour of parliamentarians in the European Parliament and the UK House of Commons.
 
 
-### Course Schedule
+### Assessment
+
+#### Daily lab exercises
+
+These are not assessed, but will form the practical materials for each day's labs.  See these instructions for how to access and work with each day's exercise.
+
+#### Mid-term project
+
+The class assignment for Day 6 will count as the mid-term assignment, which will count for 25% of the grade.
+
+#### Exam
+
+Friday, 17 August.  This will be a "take-home" exam but there will be a room provided where you are welcome to start (and finish!) the assignment.  Instructors will be present for answering any procedural questions or clarifying anything about the exam that is unclear.
+
+* __Instructions:__  Complete and submit the exam just as you would any lab assignment: by renaming the file, editing the R Markdown, knitting, and submitting through Moodle your knitted HTML file.  
+* __Formatting:__  Put your own textual answers in boldface (using `**boldface type**` in RMarkdown), so that we can easily identify them when reviewing your HTML file.  
+* __Deadline:__ Monday 20 August 17:00 London time (GMT+1)  
+
+
+### Detailed Course Schedule
 
 ***
 
@@ -232,7 +216,7 @@ We will return to database normalization, and how to implement this using good p
 
 ***
 
-#### 4. Linear Regression [KB]
+#### 4. Linear Regression
 
 Linear regression model and supervised learning.
 
@@ -439,15 +423,3 @@ Working with network data, network data types, centrality measures.
 * [Using Metadata to Find Paul Revere](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)
 * G. Erkan and D. Radev. 2004. "LexRank: Graph-based lexical centrality as salience in text summarization" _Journal of Artificial Intelligence Research_ 22, 457 - 479
 * Miller McPherson, Lynn Smith-Lovin, and James M Cook. 2001. "Birds of a Feather: Homophily in Social Networks" _Annual Review of Sociology_ 27, 415-44
-
-***
-
-### Assessment
-
-#### Exam: Friday, 17 August
-
-_Time and Room TBC_
-
-* __Instructions:__  Complete and submit the exam just as you would any lab assignment: by renaming the file, editing the R Markdown, knitting, and submitting through Moodle your knitted HTML file.
-* __Formatting:__  Put your own textual answers in boldface (using `**boldface type**` in RMarkdown), so that we can easily identify them when reviewing your HTML file.
-* __Deadline:__ Monday 20 August 17:00 London time (GMT+1)
