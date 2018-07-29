@@ -1,7 +1,7 @@
-# ME314 Introduction to Data Science and Big Data Analytics #
-
-
-#### LSE Methods Summer Programme 2018
+---
+title: ME314 Introduction to Data Science and Big Data Analytics
+subtitle: LSE Methods Summer Programme 2018
+---
 
 [Kenneth Benoit](kbenoit@lse.ac.uk), Department of Methodology, LSE  
 [Slava Mikhaylov](s.mikhaylov@essex.ac.uk), Institute for Analytics and Data Science, University of Essex  
