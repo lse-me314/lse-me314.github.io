@@ -7,7 +7,7 @@ ME314, LSE Methods Summer Programme 2018
 
 ### The easy way: RStudio server
 
-To avoid configuration problems, we have set up an RStudio server environment that contains all that you need to use for this course, on a cloud server.  You can access to the server at https://me314.hpccloud.lse.ac.uk using your LSE username and password.  You only need a web browser and an Internet connection to use this.
+To avoid configuration problems, we have set up an RStudio server environment that contains all that you need to use for this course, on a cloud server.  You can access to the server at [https://me314.hpccloud.lse.ac.uk](https://me314.hpccloud.lse.ac.uk) using your LSE username and password.  You only need a web browser and an Internet connection to use this.
 
 ### Using R/RStudio locally
 
