@@ -62,11 +62,7 @@ Students should already be familiar with quantitative methods at an introductory
 
 ### Preparing for the course
 
-Before the course you should:
-
-* Download and install [R](https://cran.r-project.org) _and_ [RStudio](http://www.rstudio.com) on your computer.
-
-Detailed instructions can also be found [here](https://lse-me314.github.io/instructions) for installing the tools you need and working with the lab materials.
+While we have also made a cloud server available to you for working with all of the assignments, if you want to use these locally or after the course, we recommend that you download and install [R](https://cran.r-project.org) and [RStudio](http://www.rstudio.com) on your computer.  Detailed instructions can also be found [here](https://lse-me314.github.io/instructions) for installing the tools you need and working with the lab materials.
 
 If you are not already familiar with R, we strongly encourage you to attempt to become familiar before the start of the course.  That way, you will spend much less time become familiar with the tools, and be able to focus more on the methods.  The following links provide a basic introduction to R, which you can study at your own pace before the course begins.
 
