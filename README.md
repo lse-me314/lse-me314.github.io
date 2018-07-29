@@ -8,6 +8,23 @@ London School of Economics and Political Science
 
 This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Big Data Analytics*](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in July-August 2018 by Kenneth Benoit, Slava Mikhaylov, and Jack Blumenau.  
 
+### Quick links to topics
+
+| Day | Date      | Instructor | Topic |
+|:---:|:----------|:-----------|:------|
+| 1  | Mon 30 Jul | KB, SM     | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
+| 2  | Tue 31 Jul | KB         | [The Shape of Data](#2-the-shape-of-data) |
+| 3  | Wed 1 Aug  | KB         | [Working with Databases](#3-working-with-Databases) |
+| 4  | Thu 2 Aug  | KB         | [](#) |
+| 5  | Mon 6 Aug  | SM         | [Classification](#5-classification) |
+| 6  | Tue 7 Aug  | SM         | [Resampling methods, model selection and regularization](#6-resampling-methods-model-selection-and-regularization) |
+| 7  | Wed 8 Aug  | SM         | [Non-linear models and tree-based methods](#7-non-linear-models-and-tree-based-methods) |
+| 8  | Thu 9 Aug  | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning and-dimensional-reduction) |
+| 9  | Mon 13 Aug | JB         | [Text analysis](#9-text-analysis) |
+| 10 | Tue 14 Aug | JB         | [Topic modelling](#10-topic-modelling) |
+| 11 | Wed 15 Aug | JB         | [Mining the Social ](#11-mining-the-social-web) |
+| 12 | Thu 16 Aug | KB         | [Network Analysis](#12-network-analysis) |
+
 
 ### Overview
 
@@ -138,7 +155,8 @@ You can read more about using GitHub with RStudio in Hadley Wickham's _R Package
 
 ***
 
-#### __*Monday, 30 July: Overview and introduction to data science [SM,KB]*__
+#### 1. Overview and introduction to data science
+
 We will use this session to get to know the range of interests and experience students bring to the class, as well as to survey the machine learning approaches to be covered. We will also discuss and demonstrate the R software.
 
 ##### Resources
@@ -167,7 +185,7 @@ We will use this session to get to know the range of interests and experience st
 
 ***
 
-#### __*Tuesday, 31 July: The Shape of Data [KB]*__
+#### 2. The Shape of Data
 
 This week introduces the concept of data "beyond the spreadsheet", the rectangular format most common in statistical datasets.  It covers relational structures and the concept of database normalization.  We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.  Additional topics concerning text encoding, date formats, and sparse matrix formats are also covered.
 
@@ -192,7 +210,7 @@ This week introduces the concept of data "beyond the spreadsheet", the rectangul
 
 ***
 
-#### __*Wednesday, 1 August: Working with Databases [KB*__]
+#### 3. Working with Databases
 
 We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.  We will also cover authentication and how to connect to local and remote databases.   
 
@@ -214,7 +232,7 @@ We will return to database normalization, and how to implement this using good p
 
 ***
 
-#### __*Thursday, 2 August: Linear Regression [KB]*__
+#### 4. Linear Regression [KB]
 
 Linear regression model and supervised learning.
 
@@ -235,7 +253,8 @@ Linear regression model and supervised learning.
 
 ***
 
-#### __*Monday, 6 August: Classification [SM]*__
+#### 5. Classification
+
 Logistic regression, discriminant analysis, Naive Bayes, evaluating model performance.
 
 ##### Resources
@@ -256,7 +275,8 @@ Logistic regression, discriminant analysis, Naive Bayes, evaluating model perfor
 
 ***
 
-#### __*Tuesday, 7 August: Resampling methods, model selection and regularization [SM]*__
+#### 6. Resampling methods, model selection and regularization
+
 Cross-validation, bootstrap, ridge and lasso.
 
 ##### Resources
@@ -276,7 +296,8 @@ Cross-validation, bootstrap, ridge and lasso.
 
 ***
 
-#### __*Wednesday, 8 August: Non-linear models and tree-based methods [SM]*__
+#### 7. Non-linear models and tree-based methods
+
 GAMs, local regression, decision trees, random forest, boosting.
 
 ##### Resources
@@ -298,7 +319,8 @@ GAMs, local regression, decision trees, random forest, boosting.
 
 ***
 
-#### __*Thursday, 9 August: Unsupervised learning and dimensional reduction [KB]*__
+#### 8. Unsupervised learning and dimensional reduction
+
 Cluster analysis, PCA, correspondence analysis, association rules.
 
 ##### Resources
@@ -321,7 +343,8 @@ Cluster analysis, PCA, correspondence analysis, association rules.
 
 ***
 
-#### __*Monday, 13 August: Text analysis [JB]*__
+#### 9. Text analysis
+
 Working with text in R, sentiment analysis, dictionary methods.
 
 ##### Resources
@@ -343,7 +366,7 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 ***
 
-#### __*Tuesday, 14 August: Topic modelling [JB]*__
+#### 10. Topic modelling
 
 Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
@@ -369,7 +392,8 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 ***
 
-#### __*Wednesday, 15 August: Mining the Social Web [JB]*__
+#### 11. Mining the Social Web
+
 Working with the Twitter API, Facebook API, JSON data, and examples.
 
 ##### Resources
@@ -402,7 +426,7 @@ Working with the Twitter API, Facebook API, JSON data, and examples.
 
 ***
 
-#### __*Thursday, 16 August: Network Analysis [JB]*__
+#### 12. Network Analysis
 
 Working with network data, network data types, centrality measures.
 
@@ -420,7 +444,9 @@ Working with network data, network data types, centrality measures.
 
 ### Assessment
 
-#### __Exam: Friday, 17 August, Time and Room TBC__
+#### Exam: Friday, 17 August
+
+_Time and Room TBC_
 
 * __Instructions:__  Complete and submit the exam just as you would any lab assignment: by renaming the file, editing the R Markdown, knitting, and submitting through Moodle your knitted HTML file.
 * __Formatting:__  Put your own textual answers in boldface (using `**boldface type**` in RMarkdown), so that we can easily identify them when reviewing your HTML file.
