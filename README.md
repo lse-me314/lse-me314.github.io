@@ -12,19 +12,19 @@ This repository contains the class materials for the [Research Methods, Data Sci
 
 | Day | Date      | Instructor | Topic |
 |:---:|:----------|:-----------|:------|
-| 1  | Mon 30 Jul | KB, SM     | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
-| 2  | Tue 31 Jul | KB         | [The Shape of Data](#2-the-shape-of-data) |
-| 3  | Wed 1 Aug  | KB         | [Working with Databases](#3-working-with-databases) |
-| 4  | Thu 2 Aug  | KB         | [Linear Regression](#4-linear-regression) |
-| 5  | Mon 6 Aug  | SM         | [Classification](#5-classification) |
-| 6  | Tue 7 Aug  | SM         | [Resampling methods, model selection and regularization](#6-resampling-methods-model-selection-and-regularization) |
-| 7  | Wed 8 Aug  | SM         | [Non-linear models and tree-based methods](#7-non-linear-models-and-tree-based-methods) |
-| 8  | Thu 9 Aug  | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
-| 9  | Mon 13 Aug | JB         | [Text analysis](#9-text-analysis) |
-| 10 | Tue 14 Aug | JB         | [Topic modelling](#10-topic-modelling) |
-| 11 | Wed 15 Aug | JB         | [Mining the Social ](#11-mining-the-social-web) |
-| 12 | Thu 16 Aug | KB         | [Network Analysis](#12-network-analysis) |
-| 13 | Fri 17 Aug |            | [Final Exam](#assessment) |
+| 1  | Mo 30 Jul | KB, SM     | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
+| 2  | Tu 31 Jul | KB         | [The Shape of Data](#2-the-shape-of-data) |
+| 3  | We 1 Aug  | KB         | [Working with Databases](#3-working-with-databases) |
+| 4  | Th 2 Aug  | KB         | [Linear Regression](#4-linear-regression) |
+| 5  | Mo 6 Aug  | SM         | [Classification](#5-classification) |
+| 6  | Tu 7 Aug  | SM         | [Resampling methods, model selection and regularization](#6-resampling-methods-model-selection-and-regularization) |
+| 7  | We 8 Aug  | SM         | [Non-linear models and tree-based methods](#7-non-linear-models-and-tree-based-methods) |
+| 8  | Th 9 Aug  | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
+| 9  | Mo 13 Aug | JB         | [Text analysis](#9-text-analysis) |
+| 10 | Tu 14 Aug | JB         | [Topic modelling](#10-topic-modelling) |
+| 11 | We 15 Aug | JB         | [Mining the Social Web](#11-mining-the-social-web) |
+| 12 | Th 16 Aug | KB         | [Network Analysis](#12-network-analysis) |
+| 13 | Fr 17 Aug |            | [Final Exam](#assessment) |
 
 
 
