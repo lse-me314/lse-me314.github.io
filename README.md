@@ -62,7 +62,9 @@ Students should already be familiar with quantitative methods at an introductory
 
 ### Preparing for the course
 
-While we have also made a cloud server available to you for working with all of the assignments, if you want to use these locally or after the course, we recommend that you download and install [R](https://cran.r-project.org) and [RStudio](http://www.rstudio.com) on your computer.  Detailed instructions can also be found [here](https://lse-me314.github.io/instructions) for installing the tools you need and working with the lab materials.
+While we have also made a cloud server available to you for working with all of the assignments, if you want to use these locally or after the course, we recommend that you download and install [R](https://cran.r-project.org) and [RStudio](http://www.rstudio.com) on your computer.  
+
+**Detailed instructions can also be found [here](https://lse-me314.github.io/instructions) for installing the tools you need and working with the lab materials.**
 
 If you are not already familiar with R, we strongly encourage you to attempt to become familiar before the start of the course.  That way, you will spend much less time become familiar with the tools, and be able to focus more on the methods.  The following links provide a basic introduction to R, which you can study at your own pace before the course begins.
 
@@ -111,7 +113,7 @@ The following are supplemental texts which you may also find useful:
 
 **Slava Mikhaylov** is Professor of Public Policy and Data Science at Institute of Analytics and Data Science and Department of Government, University of Essex. He's a Chief Scientific Advisor to Essex County Council and a co-investigator in an ESRC Big Data infrastructure investment initiative – Consumer Data Research Centre at UCL. His research and teaching is primarily in the field of computational social science and data science.
 
-**Dr. Jack Blumenau** is a Lecturer in Quantitative Methods at the UCL Department of Political Science. he was previously an ESRC "Future Research Leader" post-doc in the Methodology Department at the LSE. His research explores the effects of legislative leaders on the behaviour of parliamentarians in the European Parliament and the UK House of Commons.
+**Jack Blumenau** is a Lecturer in Quantitative Methods at the UCL Department of Political Science. he was previously an ESRC "Future Research Leader" post-doc in the Methodology Department at the LSE. His research explores the effects of legislative leaders on the behaviour of parliamentarians in the European Parliament and the UK House of Commons.
 
 
 ### Assessment
@@ -120,7 +122,7 @@ The following are supplemental texts which you may also find useful:
 
 These are not assessed, but will form the practical materials for each day's labs.  See these instructions for how to access and work with each day's exercise.
 
-See https://lse-me314.github.io/instructions for detailed instructions on obtaining and working with each day's lab materials.
+See [https://lse-me314.github.io/instructions](https://lse-me314.github.io/instructions) for detailed instructions on obtaining and working with each day's lab materials.
 
 #### Mid-term project
 
@@ -144,10 +146,9 @@ Friday, 17 August.  This will be a "take-home" exam but there will be a room pro
 We will use this session to get to know the range of interests and experience students bring to the class, as well as to survey the machine learning approaches to be covered. We will also discuss and demonstrate the R software.
 
 ##### Resources
-* [Lecture Notes Part 1](day1/ME314_day1.1.pdf)
-* [Lecture Notes Part 2](day1/ME314_day1.2.pdf)
-* [Assignment 1 as R markdown](day1/ME314_assignment1_LASTNAME_FIRSTNAME.Rmd)
-* Assignment 1 **solution** as [R markdown](day1/ME314_assignment1_solution.Rmd)
+* [Lecture Notes Part 1](lecturenotes/ME314_day1.1.pdf)
+* [Lecture Notes Part 2](lecturenotes/ME314_day1.2.pdf)
+* [Lab 1 materials](https://lse-me314.github.io/assignment01/)
 
 <!--- * [The results of the data science quiz](http://htmlpreview.github.com/?https://github.com/kbenoit/ME314/blob/master/day1/data_science_quiz.html) and the [anonymized dataset in .csv format](day1/data_science_quiz_results.csv). -->
 
