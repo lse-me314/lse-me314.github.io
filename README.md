@@ -66,6 +66,8 @@ Before the course you should:
 
 * Download and install [R](https://cran.r-project.org) _and_ [RStudio](http://www.rstudio.com) on your computer.
 
+Detailed instructions can also be found [here](https://lse-me314.github.io/instructions) for installing the tools you need and working with the lab materials.
+
 If you are not already familiar with R, we strongly encourage you to attempt to become familiar before the start of the course.  That way, you will spend much less time become familiar with the tools, and be able to focus more on the methods.  The following links provide a basic introduction to R, which you can study at your own pace before the course begins.
 
 * [*An Introduction to R*](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf).
@@ -121,6 +123,8 @@ The following are supplemental texts which you may also find useful:
 #### Daily lab exercises
 
 These are not assessed, but will form the practical materials for each day's labs.  See these instructions for how to access and work with each day's exercise.
+
+See https://lse-me314.github.io/instructions for detailed instructions on obtaining and working with each day's lab materials.
 
 #### Mid-term project
 
