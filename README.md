@@ -1,6 +1,4 @@
----
-title: ME314 Introduction to Data Science and Big Data Analytics
----
+# ME314 Introduction to Data Science and Big Data Analytics
 
 #### LSE Methods Summer Programme 2018
 
