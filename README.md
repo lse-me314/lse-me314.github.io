@@ -176,7 +176,7 @@ This week introduces the concept of data "beyond the spreadsheet", the rectangul
 
 ##### Resources
 
-* [Lecture Notes](lecturenotes/ME314_day2.pdf)
+* [Lecture Notes](lecturenotes/ME314_day2.ipynb)
 * [Lab 2 materials](https://lse-me314.github.io/assignment02/)
 
 ##### Required reading
