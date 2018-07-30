@@ -174,14 +174,10 @@ We will use this session to get to know the range of interests and experience st
 
 This week introduces the concept of data "beyond the spreadsheet", the rectangular format most common in statistical datasets.  It covers relational structures and the concept of database normalization.  We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.  Additional topics concerning text encoding, date formats, and sparse matrix formats are also covered.
 
-
 ##### Resources
 
-* [Lecture Notes](day2/)
-* [Assignment 2 as R markdown](day2/ME314_assignment2_LASTNAME_FIRSTNAME.Rmd)
-* Assignment 2 **solution** as [R markdown](day2/ME314_assignment2_solution.Rmd)
-* [Altaf's resource on **dplyr** and the "tidyverse"](https://altaf-ali.github.io/tidydata_tutorial)
-* [Altaf's resource on **ggplot2**](https://altaf-ali.github.io/ggplot_tutorial)
+* [Lecture Notes](lecturenotes/ME314_day2.pdf)
+* [Lab 2 materials](https://lse-me314.github.io/assignment02/)
 
 ##### Required reading
 
@@ -201,9 +197,8 @@ We will return to database normalization, and how to implement this using good p
 
 ##### Resources
 
-* [Lecture Notes](day3/)
-* [Assignment 3 as R markdown](day3/ME314_assignment3_LASTNAME_FIRSTNAME.Rmd)
-* Assignment 3 **solution** as [R markdown](day3/ME314_assignment3_solution.Rmd)
+* [Lecture Notes](lecturenotes/ME314_day3.pdf)
+* [Lab 3 materials](https://lse-me314.github.io/assignment03/)
 
 ##### Required reading
 
@@ -223,9 +218,8 @@ Linear regression model and supervised learning.
 
 ##### Resources
 
-* [Lecture Notes](day4/ME314_day4.pdf)
-* [Assignment 4 as R markdown](day4/ME314_assignment4_LASTNAME_FIRSTNAME.Rmd)
-* Assignment 4 **solution** as [R markdown](day4/ME314_assignment4_solution.Rmd)
+* [Lecture Notes](lecturenotes/ME314_day4.pdf)
+* [Lab 4 materials](https://lse-me314.github.io/assignment04/)
 
 ##### Required Reading
 
