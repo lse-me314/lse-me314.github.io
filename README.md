@@ -334,7 +334,7 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 ##### Resources
 
-* [Lecture Notes](day9/ME314_day9.pdf)
+* [Lecture Notes](lecturenotes/ME314_day9.pdf)
 * [Assignment 9 as R markdown](day9/ME314_assignment9_LASTNAME_FIRSTNAME.Rmd) or [html](http://htmlpreview.github.io/?https://github.com/kbenoit/ME314/blob/master/day9/ME314_assignment8_LASTNAME_FIRSTNAME.html)
     + sample zip file [`UKimmigTexts.zip`](day9/UKimmigTexts.zip) of texts for building a corpus
 * Assignment 9 **solution** as [R markdown](day9/ME314_assignment9_solution.Rmd)
@@ -357,7 +357,7 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 ##### Resources
 
-* [Lecture Notes](day10/ME314_day10.pdf)
+* [Lecture Notes](lecturenotes/ME314_day10.pdf)
 * [Assignment 10 as R markdown](day10/ME314_assignment10_LASTNAME_FIRSTNAME.Rmd)
 * Assignment 10 **solution** as [R markdown](day10/ME314_assignment10_solution.Rmd)
 
