@@ -1,4 +1,4 @@
-<a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+[**View on GitHub**](<a href="{{ site.github.repository_url }}" class="btn"></a>)
 
 #### LSE Methods Summer Programme 2018
 
