@@ -1,5 +1,5 @@
 #### LSE Methods Summer Programme 2018
-
+ 
 London School of Economics and Political Science
 
 [Kenneth Benoit](kbenoit@lse.ac.uk), Department of Methodology, LSE  
