@@ -1,5 +1,3 @@
-[**View on GitHub**](<a href="{{ site.github.repository_url }}" class="btn"></a>)
-
 #### LSE Methods Summer Programme 2018
 
 London School of Economics and Political Science
