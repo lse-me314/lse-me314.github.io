@@ -198,7 +198,8 @@ We will return to database normalization, and how to implement this using good p
 
 ##### Resources
 
-* [Lecture Notes](lecturenotes/ME314_day3.pdf)
+* [Lecture Notes](https://github.com/lse-me314/lse-me314.github.io/blob/master/lecturenotes/ME314_day3.ipynb)
+* [Lecture Notes as pdf](lecturenotes/ME314_day3.pdf)
 * [Lab 3 materials](https://lse-me314.github.io/assignment03/)
 
 ##### Required reading
