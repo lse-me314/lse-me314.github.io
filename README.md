@@ -241,8 +241,7 @@ Logistic regression, discriminant analysis, Naive Bayes, evaluating model perfor
 ##### Resources
 
 * [Lecture Notes](day4/ME314_day4.pdf)
-* [Assignment 4 as R markdown](day4/ME314_assignment4_LASTNAME_FIRSTNAME.Rmd)
-* Assignment 4 **solution** as [R markdown](day4/ME314_assignment4_solution.Rmd)
+* [Lab 5 materials](https://lse-me314.github.io/assignment05/)
 
 ##### Required Reading
 
@@ -263,9 +262,7 @@ Cross-validation, bootstrap, ridge and lasso.
 ##### Resources
 
 * [Lecture Notes](day6/ME314_day6.pdf)
-* [Assignment 6 as R markdown](day6/ME314_assignment6_LASTNAME_FIRSTNAME.Rmd)
-* Assignment 6 **solution** as [R markdown](day6/ME314_assignment6_solution.Rmd)
-* [Dataverse replication example for PCR](http://dx.doi.org/10.7910/DVN/AER5QJ)
+* [Lab 6 materials](https://lse-me314.github.io/assignment06/)
 
 ##### Required Reading
 
@@ -284,9 +281,7 @@ GAMs, local regression, decision trees, random forest, boosting.
 ##### Resources
 
 * [Lecture Notes](day7/ME314_day8.pdf)
-* [RandomForest research example](day7/example_random_forest_Ukraine.pdf)
-* [Assignment 7 as R markdown](day6/ME314_assignment7_LASTNAME_FIRSTNAME.Rmd)
-* Assignment 7 **solution** as [R markdown](day7/ME314_assignment6_solution.Rmd)
+* [Lab 7 materials](https://lse-me314.github.io/assignment07/)
 
 ##### Required Reading
 
@@ -307,9 +302,7 @@ Cluster analysis, PCA, correspondence analysis, association rules.
 ##### Resources
 
 * [Lecture Notes](day7/ME314_day7.pdf)
-* [Application example: smart meter analysis Notes](day7/application_example_clustering_rforest.pdf)
-* [Assignment 7 as R markdown](day7/ME314_assignment7_LASTNAME_FIRSTNAME.Rmd)
-* Assignment 7 **solution** as [R markdown](day7/ME314_assignment7_solution.Rmd)
+* [Lab 8 materials](https://lse-me314.github.io/assignment08/)
 
 ##### Required reading
 
