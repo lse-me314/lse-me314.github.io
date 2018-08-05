@@ -240,7 +240,7 @@ Logistic regression, discriminant analysis, Naive Bayes, evaluating model perfor
 
 ##### Resources
 
-* [Lecture Notes](day4/ME314_day4.pdf)
+* [Lecture Notes](lecturenotes/ME314_day5.pdf)
 * [Lab 5 materials](https://lse-me314.github.io/assignment05/)
 
 ##### Required Reading
