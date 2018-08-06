@@ -126,7 +126,7 @@ See [https://lse-me314.github.io/instructions](https://lse-me314.github.io/instr
 
 #### Mid-term project
 
-The class assignment for Day 6 will count as the mid-term assignment, which will count for 25% of the grade.
+The class assignment for Day 5 will count as the mid-term assignment, which will count for 25% of the grade.  The [mid-term is available here](https://lse-me314.github.io/midterm-2018/).
 
 #### Exam
 
