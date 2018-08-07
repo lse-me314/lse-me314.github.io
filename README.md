@@ -261,7 +261,7 @@ Cross-validation, bootstrap, ridge and lasso.
 
 ##### Resources
 
-* [Lecture Notes](day6/ME314_day6.pdf)
+* [Lecture Notes](lecturenotes/ME314_day6.pdf)
 * [Lab 6 materials](https://lse-me314.github.io/assignment06/)
 
 ##### Required Reading
