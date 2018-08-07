@@ -280,7 +280,7 @@ GAMs, local regression, decision trees, random forest, boosting.
 
 ##### Resources
 
-* [Lecture Notes](day7/ME314_day8.pdf)
+* [Lecture Notes](lecturenotes/ME314_day7.pdf)
 * [Lab 7 materials](https://lse-me314.github.io/assignment07/)
 
 ##### Required Reading
@@ -301,7 +301,7 @@ Cluster analysis, PCA, correspondence analysis, association rules.
 
 ##### Resources
 
-* [Lecture Notes](day7/ME314_day7.pdf)
+* [Lecture Notes](lecturenotes/ME314_day8.pdf)
 * [Lab 8 materials](https://lse-me314.github.io/assignment08/)
 
 ##### Required reading
