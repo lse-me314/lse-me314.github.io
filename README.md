@@ -263,6 +263,7 @@ Cross-validation, bootstrap, ridge and lasso.
 
 * [Lecture Notes](lecturenotes/ME314_day6.pdf)
 * [Lab 6 materials](https://lse-me314.github.io/assignment06/)
+* [World Bank South Africa NDP](https://github.com/sjankin/RSAdevplans)
 
 ##### Required Reading
 
