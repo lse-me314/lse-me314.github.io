@@ -325,9 +325,8 @@ Working with text in R, sentiment analysis, dictionary methods.
 ##### Resources
 
 * [Lecture Notes](lecturenotes/ME314_day9.pdf)
-* [Assignment 9 as R markdown](day9/ME314_assignment9_LASTNAME_FIRSTNAME.Rmd) or [html](http://htmlpreview.github.io/?https://github.com/kbenoit/ME314/blob/master/day9/ME314_assignment8_LASTNAME_FIRSTNAME.html)
-    + sample zip file [`UKimmigTexts.zip`](day9/UKimmigTexts.zip) of texts for building a corpus
-* Assignment 9 **solution** as [R markdown](day9/ME314_assignment9_solution.Rmd)
+* [Lab 09 materials](https://lse-me314.github.io/assignment09/)
+  
 
 ##### Required reading
 
@@ -348,8 +347,7 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 ##### Resources
 
 * [Lecture Notes](lecturenotes/ME314_day10.pdf)
-* [Assignment 10 as R markdown](day10/ME314_assignment10_LASTNAME_FIRSTNAME.Rmd)
-* Assignment 10 **solution** as [R markdown](day10/ME314_assignment10_solution.Rmd)
+* [Lab 10 materials](https://lse-me314.github.io/assignment10/)
 
 
 ##### Required reading
@@ -374,10 +372,7 @@ Working with the Twitter API, Facebook API, JSON data, and examples.
 ##### Resources
 
 * [Lecture Notes](day11/ME314_day11.pdf)
-* [General examples from the lecture](day11/day11examples_noKeys.R)
-* [Streaming example code](day11/streamRExample.R)
-* [Rest Example code](day11/restExample.R)
-* [Assignment 11 as R markdown](day11/ME314_assignment11_LASTNAME_FIRSTNAME.Rmd).  
+* [Lab 11 materials](https://lse-me314.github.io/assignment11/)
 
 ##### Required reading:
 
