@@ -22,7 +22,7 @@ This repository contains the class materials for the [Research Methods, Data Sci
 | 8  | Th 9 Aug  | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
 | 9  | Mo 13 Aug | JB         | [Text analysis](#9-text-analysis) |
 | 10 | Tu 14 Aug | JB         | [Topic modelling](#10-topic-modelling) |
-| 11 | We 15 Aug | JB         | [Mining the Social Web](#11-mining-the-social-web) |
+| 11 | We 15 Aug | JB         | [Data from the Web](#11-data-from-the-web) |
 | 12 | Th 16 Aug | KB         | [Network Analysis](#12-network-analysis) |
 | 13 | Fr 17 Aug |            | [Final Exam](#assessment) |
 
@@ -366,7 +366,7 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 ***
 
-#### 11. Mining the Social Web
+#### 11. Data from the Web
 
 Working with the Twitter API, Facebook API, JSON data, and examples.
 
