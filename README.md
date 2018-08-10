@@ -283,6 +283,7 @@ GAMs, local regression, decision trees, random forest, boosting.
 
 * [Lecture Notes](lecturenotes/ME314_day7.pdf)
 * [Lab 7 materials](https://lse-me314.github.io/assignment07/)
+* [United Nations example](https://github.com/sjankin/UnitedNations)
 
 ##### Required Reading
 
