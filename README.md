@@ -2,9 +2,9 @@
  
 London School of Economics and Political Science
 
-[Kenneth Benoit](kbenoit@lse.ac.uk), Department of Methodology, LSE  
-[Slava Jankin Mikhaylov](s.mikhaylov@essex.ac.uk), Institute for Analytics and Data Science, University of Essex  
-[Jack Blumenau](J.Blumenau@ucl.ac.uk), Department of Political Science, UCL
+Kenneth Benoit ([kbenoit@lse.ac.uk](kbenoit@lse.ac.uk)), Department of Methodology, LSE  
+Slava Jankin Mikhaylov ([s.mikhaylov@essex.ac.uk](s.mikhaylov@essex.ac.uk)), Institute for Analytics and Data Science, University of Essex  
+Jack Blumenau ([J.Blumenau@ucl.ac.uk](J.Blumenau@ucl.ac.uk)), Department of Political Science, UCL
 
 This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Big Data Analytics*](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in July-August 2018 by Kenneth Benoit, Slava Mikhaylov, and Jack Blumenau.  
 
@@ -283,6 +283,7 @@ GAMs, local regression, decision trees, random forest, boosting.
 
 * [Lecture Notes](lecturenotes/ME314_day7.pdf)
 * [Lab 7 materials](https://lse-me314.github.io/assignment07/)
+* [United Nations example](https://github.com/sjankin/UnitedNations)
 
 ##### Required Reading
 
