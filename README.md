@@ -339,6 +339,7 @@ Working with text in R, sentiment analysis, dictionary methods.
 * Denny, M.J. and Spirling, A. (2018),[``Text Preprocessing For Unsupervised Learning: Why It Matters, When It Misleads, And What To Do About It''](https://www.cambridge.org/core/journals/political-analysis/article/text-preprocessing-for-unsupervised-learning-why-it-matters-when-it-misleads-and-what-to-do-about-it/AA7D4DE0AA6AB208502515AE3EC6989E) _Political Analysis_
 * Spirling, A. (2012), [``Democratization and Linguistic Complexity: The Effect of Franchise Extension on Parliamentary Discourse, 1832–1915.''](https://www.journals.uchicago.edu/doi/abs/10.1086/683612) _Journal of Politics_
 * Herzog, A. and K. Benoit (2015), ``The most unkindest cuts: Speaker selection and expressed government dissent during economic crisis.'' _Journal of Politics_, 77(4):1157--1175.
+* Benoit, K., Munger, K., and Spirling, A.  [``Measuring and Explaining Political Sophistication Through Textual Complexity.''](http://ssrn.com/abstract=3062061), _Working Paper_
 
 ***
 
