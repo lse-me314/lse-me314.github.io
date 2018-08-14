@@ -377,26 +377,24 @@ Working with the Twitter API, Facebook API, JSON data, and examples.
 * [Lecture Notes](day11/ME314_day11.pdf)
 * [Lab 11 materials](https://lse-me314.github.io/assignment11/)
 
-##### Required reading:
+##### Recommended Reading:
 
 * Broniatowski, David A, Michael J Paul, and Mark Dredze. 2013. "National and Local Influenza Surveillance Through Twitter: an Analysis of the 2012-2013 Influenza Epidemic" _PLoS ONE_ 8(12): 83672–78. [PDF here](day11/Broniatowski.pdf)
-* Twitter Authentication setup:
-    + [Official](https://dev.twitter.com/oauth/overview/application-owner-access-tokens)
-    + [Walkthrough](http://wiki.communitydata.cc/Twitter_authentication_setup)  
-* Twitter API documentation:
-    + [Overview of REST API](https://dev.twitter.com/rest/public)
-    + [Overview of streaming API](https://dev.twitter.com/streaming/overview)
-
-
-##### Recommended Reading
-
 * [Earthquake shakes Twitter users: real-time event detection by social sensors](http://www.ymatsuo.com/papers/www2010.pdf
  )
 * http://rcrastinate.blogspot.co.uk/2015/02/mapping-world-with-tweets-including-gif.html
 * https://github.com/twitter/AnomalyDetection
 * https://github.com/pablobarbera/streamR
 * Zafarani et al., Chapters 1-4.
-* Matthew Russell (2013). _Mining the Social Web_. O'Reilly Media. 2nd edition.
+* Matthew Russell (2013). _Mining the Social Web_. O'Reilly Media. 2nd edition. 
+
+##### To use the twitteR package in R:
+* Twitter Authentication setup:
+    + [Official](https://dev.twitter.com/oauth/overview/application-owner-access-tokens)
+    + [Walkthrough](http://wiki.communitydata.cc/Twitter_authentication_setup)  
+* Twitter API documentation:
+    + [Overview of REST API](https://dev.twitter.com/rest/public)
+    + [Overview of streaming API](https://dev.twitter.com/streaming/overview)
 
 ***
 
