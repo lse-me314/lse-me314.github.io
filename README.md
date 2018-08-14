@@ -370,7 +370,7 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 #### 11. Data from the Web
 
-Working with the Twitter API, Facebook API, JSON data, and examples.
+The promises and pitfalls of social media data. The Twitter API. The Facebook API. Web scraping. Ethics.
 
 ##### Resources
 
