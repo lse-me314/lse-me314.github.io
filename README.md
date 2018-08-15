@@ -382,12 +382,14 @@ The promises and pitfalls of social media data. The Twitter API. The Facebook AP
 ##### Recommended Reading:
 
 * Broniatowski, David A, Michael J Paul, and Mark Dredze. 2013. "National and Local Influenza Surveillance Through Twitter: an Analysis of the 2012-2013 Influenza Epidemic" _PLoS ONE_ 8(12): 83672–78. [PDF here](day11/Broniatowski.pdf)
+* Barbera, Pablo., 2017. [``Less is more? How demographic sample weights can improve public opinion estimates based on Twitter data.''](http://pablobarbera.com/static/less-is-more.pdf) _Working Paper_
+* Munger, Kevin., 2017. [``Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment''](https://link.springer.com/article/10.1007%2Fs11109-016-9373-5) _Political Behaviour_ 39(3): 629-649
+* Ginsberg et al., 2008. [``Detecting influenza epidemics using search engine query data''](https://www.nature.com/articles/nature07634) _Nature_ 457: 1012–1014. 
+* Lazer et al., 2014. [``The Parable of Google Flu: Traps in Big Data Analysis''](http://science.sciencemag.org/content/343/6176/1203.full) _Science_ 343: 1203-1205
 * [Earthquake shakes Twitter users: real-time event detection by social sensors](http://www.ymatsuo.com/papers/www2010.pdf
  )
 * http://rcrastinate.blogspot.co.uk/2015/02/mapping-world-with-tweets-including-gif.html
-* https://github.com/twitter/AnomalyDetection
 * https://github.com/pablobarbera/streamR
-* Zafarani et al., Chapters 1-4.
 * Matthew Russell (2013). _Mining the Social Web_. O'Reilly Media. 2nd edition. 
 
 ##### To use the twitteR package in R:

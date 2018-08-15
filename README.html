@@ -127,9 +127,9 @@ $(document).ready(function () {
 <div id="lse-methods-summer-programme-2018" class="section level4">
 <h4>LSE Methods Summer Programme 2018</h4>
 <p>London School of Economics and Political Science</p>
-<p><a href="kbenoit@lse.ac.uk">Kenneth Benoit</a>, Department of Methodology, LSE<br />
-<a href="s.mikhaylov@essex.ac.uk">Slava Jankin Mikhaylov</a>, Institute for Analytics and Data Science, University of Essex<br />
-<a href="J.Blumenau@ucl.ac.uk">Jack Blumenau</a>, Department of Political Science, UCL</p>
+<p>Kenneth Benoit (<a href="kbenoit@lse.ac.uk" class="uri">kbenoit@lse.ac.uk</a>), Department of Methodology, LSE<br />
+Slava Jankin Mikhaylov (<a href="s.mikhaylov@essex.ac.uk" class="uri">s.mikhaylov@essex.ac.uk</a>), Institute for Analytics and Data Science, University of Essex<br />
+Jack Blumenau (<a href="J.Blumenau@ucl.ac.uk" class="uri">J.Blumenau@ucl.ac.uk</a>), Department of Political Science, UCL</p>
 <p>This repository contains the class materials for the <a href="https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics">Research Methods, Data Science, and Mathematics</a> course <a href="https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314"><em>ME314 Introduction to Data Science and Big Data Analytics</em></a> taught in July-August 2018 by Kenneth Benoit, Slava Mikhaylov, and Jack Blumenau.</p>
 </div>
 <div id="quick-links-to-topics" class="section level3">
@@ -208,7 +208,7 @@ $(document).ready(function () {
 <td align="center">11</td>
 <td align="left">We 15 Aug</td>
 <td align="left">JB</td>
-<td align="left"><a href="#11-mining-the-social-web">Mining the Social Web</a></td>
+<td align="left"><a href="#11-data-from-the-web">Data from the Web</a></td>
 </tr>
 <tr class="even">
 <td align="center">12</td>
@@ -508,6 +508,7 @@ $(document).ready(function () {
 <ul>
 <li><a href="lecturenotes/ME314_day7.pdf">Lecture Notes</a></li>
 <li><a href="https://lse-me314.github.io/assignment07/">Lab 7 materials</a></li>
+<li><a href="https://github.com/sjankin/UnitedNations">United Nations example</a></li>
 </ul>
 </div>
 <div id="required-reading-6" class="section level5">
@@ -576,6 +577,7 @@ $(document).ready(function () {
 <li>Denny, M.J. and Spirling, A. (2018),<a href="https://www.cambridge.org/core/journals/political-analysis/article/text-preprocessing-for-unsupervised-learning-why-it-matters-when-it-misleads-and-what-to-do-about-it/AA7D4DE0AA6AB208502515AE3EC6989E">``Text Preprocessing For Unsupervised Learning: Why It Matters, When It Misleads, And What To Do About It’’</a> <em>Political Analysis</em></li>
 <li>Spirling, A. (2012), <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/683612">``Democratization and Linguistic Complexity: The Effect of Franchise Extension on Parliamentary Discourse, 1832–1915.’’</a> <em>Journal of Politics</em></li>
 <li>Herzog, A. and K. Benoit (2015), ``The most unkindest cuts: Speaker selection and expressed government dissent during economic crisis.’’ <em>Journal of Politics</em>, 77(4):1157–1175.</li>
+<li>Benoit, K., Munger, K., and Spirling, A. <a href="http://ssrn.com/abstract=3062061">``Measuring and Explaining Political Sophistication Through Textual Complexity.’’</a>, <em>Working Paper</em></li>
 </ul>
 <hr />
 </div>
@@ -609,20 +611,35 @@ $(document).ready(function () {
 <hr />
 </div>
 </div>
-<div id="mining-the-social-web" class="section level4">
-<h4>11. Mining the Social Web</h4>
-<p>Working with the Twitter API, Facebook API, JSON data, and examples.</p>
+<div id="data-from-the-web" class="section level4">
+<h4>11. Data from the Web</h4>
+<p>The promises and pitfalls of social media data. The Twitter API. The Facebook API. Web scraping. Ethics.</p>
 <div id="resources-10" class="section level5">
 <h5>Resources</h5>
 <ul>
-<li><a href="day11/ME314_day11.pdf">Lecture Notes</a></li>
+<li><a href="lecturenotes/ME314_day11.pdf">Lecture Notes</a></li>
 <li><a href="https://lse-me314.github.io/assignment11/">Lab 11 materials</a></li>
+<li><a href="lecturenotes/misc/twitteR_examples.R">R script for twitteR lecture example</a></li>
+<li><a href="lecturenotes/misc/game_of_thrones.R">R script for web scraping lecture example</a></li>
 </ul>
 </div>
-<div id="required-reading-10" class="section level5">
-<h5>Required reading:</h5>
+<div id="recommended-reading-10" class="section level5">
+<h5>Recommended Reading:</h5>
 <ul>
 <li>Broniatowski, David A, Michael J Paul, and Mark Dredze. 2013. “National and Local Influenza Surveillance Through Twitter: an Analysis of the 2012-2013 Influenza Epidemic” <em>PLoS ONE</em> 8(12): 83672–78. <a href="day11/Broniatowski.pdf">PDF here</a></li>
+<li>Barbera, Pablo., 2017. <a href="http://pablobarbera.com/static/less-is-more.pdf">``Less is more? How demographic sample weights can improve public opinion estimates based on Twitter data.’’</a> <em>Working Paper</em></li>
+<li>Munger, Kevin., 2017. <a href="https://link.springer.com/article/10.1007%2Fs11109-016-9373-5">``Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment’’</a> <em>Political Behaviour</em> 39(3): 629-649</li>
+<li>Ginsberg et al., 2008. <a href="https://www.nature.com/articles/nature07634">``Detecting influenza epidemics using search engine query data’’</a> <em>Nature</em> 457: 1012–1014.</li>
+<li>Lazer et al., 2014. <a href="http://science.sciencemag.org/content/343/6176/1203.full">``The Parable of Google Flu: Traps in Big Data Analysis’’</a> <em>Science</em> 343: 1203-1205</li>
+<li><a href="http://www.ymatsuo.com/papers/www2010.pdf">Earthquake shakes Twitter users: real-time event detection by social sensors</a></li>
+<li><a href="http://rcrastinate.blogspot.co.uk/2015/02/mapping-world-with-tweets-including-gif.html" class="uri">http://rcrastinate.blogspot.co.uk/2015/02/mapping-world-with-tweets-including-gif.html</a></li>
+<li><a href="https://github.com/pablobarbera/streamR" class="uri">https://github.com/pablobarbera/streamR</a></li>
+<li>Matthew Russell (2013). <em>Mining the Social Web</em>. O’Reilly Media. 2nd edition.</li>
+</ul>
+</div>
+<div id="to-use-the-twitter-package-in-r" class="section level5">
+<h5>To use the twitteR package in R:</h5>
+<ul>
 <li>Twitter Authentication setup:
 <ul>
 <li><a href="https://dev.twitter.com/oauth/overview/application-owner-access-tokens">Official</a></li>
@@ -635,24 +652,13 @@ $(document).ready(function () {
 <li><a href="https://dev.twitter.com/streaming/overview">Overview of streaming API</a></li>
 </ul></li>
 </ul>
-</div>
-<div id="recommended-reading-10" class="section level5">
-<h5>Recommended Reading</h5>
-<ul>
-<li><a href="http://www.ymatsuo.com/papers/www2010.pdf">Earthquake shakes Twitter users: real-time event detection by social sensors</a></li>
-<li><a href="http://rcrastinate.blogspot.co.uk/2015/02/mapping-world-with-tweets-including-gif.html" class="uri">http://rcrastinate.blogspot.co.uk/2015/02/mapping-world-with-tweets-including-gif.html</a></li>
-<li><a href="https://github.com/twitter/AnomalyDetection" class="uri">https://github.com/twitter/AnomalyDetection</a></li>
-<li><a href="https://github.com/pablobarbera/streamR" class="uri">https://github.com/pablobarbera/streamR</a></li>
-<li>Zafarani et al., Chapters 1-4.</li>
-<li>Matthew Russell (2013). <em>Mining the Social Web</em>. O’Reilly Media. 2nd edition.</li>
-</ul>
 <hr />
 </div>
 </div>
 <div id="network-analysis" class="section level4">
 <h4>12. Network Analysis</h4>
 <p>Working with network data, network data types, centrality measures.</p>
-<div id="required-reading-11" class="section level5">
+<div id="required-reading-10" class="section level5">
 <h5>Required reading</h5>
 <ul>
 <li>Stephen Borgatti, Ajay Mehra, Daniel Brass, Giuseppe Labianca. 2009. “Network Analysis in the Social Sciences” <em>Science</em> 323, 892-895</li>
