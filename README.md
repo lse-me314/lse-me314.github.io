@@ -404,7 +404,12 @@ The promises and pitfalls of social media data. The Twitter API. The Facebook AP
 
 #### 12. Network Analysis
 
-Working with network data, network data types, centrality measures.
+More text analysis, including dictionaries and identifying keywords; and an introduction to network analysis.  Will also include an exam review.
+
+##### Resources
+
+* [Lecture Notes](lecturenotes/ME314_day12.pdf)
+* [Lab 12 materials](https://lse-me314.github.io/assignment12/)
 
 ##### Required reading
 
