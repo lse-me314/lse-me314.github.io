@@ -374,7 +374,7 @@ The promises and pitfalls of social media data. The Twitter API. The Facebook AP
 
 ##### Resources
 
-* [Lecture Notes](day11/ME314_day11.pdf)
+* [Lecture Notes](lecturenotes/ME314_day11.pdf)
 * [Lab 11 materials](https://lse-me314.github.io/assignment11/)
 
 ##### Recommended Reading:
