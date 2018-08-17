@@ -130,9 +130,9 @@ The class assignment for Day 5 will count as the mid-term assignment, which will
 
 #### Exam
 
-Friday, 17 August.  This will be a "take-home" exam but there will be a room provided where you are welcome to start (and finish!) the assignment.  Instructors will be present for answering any procedural questions or clarifying anything about the exam that is unclear.
+Friday, 17 August.  This will be a "take-home" exam.  You are welcome to use a lab as a quiet room on Friday to complete the assignment, but you can also do this from home.  Instructors will be available throughout the day by email for answering any procedural questions or clarifying anything about the exam that is unclear.
 
-* __Instructions:__  Complete and submit the exam just as you would any lab assignment: by renaming the file, editing the R Markdown, knitting, and submitting through Moodle your knitted HTML file.  
+* __Instructions:__  [The exam is here](https://lse-me314.github.io/finalexam/).  Complete and submit the exam just as you would any lab assignment: by renaming the file, editing the R Markdown, knitting, and submitting through Moodle your knitted HTML file.  
 * __Formatting:__  Put your own textual answers in boldface (using `**boldface type**` in RMarkdown), so that we can easily identify them when reviewing your HTML file.  
 * __Deadline:__ Monday 20 August 17:00 London time (GMT+1)  
 
