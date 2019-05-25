@@ -1,9 +1,9 @@
 #### LSE Methods Summer Programme 2018
- 
+
 London School of Economics and Political Science
 
 Kenneth Benoit ([kbenoit@lse.ac.uk](kbenoit@lse.ac.uk)), Department of Methodology, LSE  
-Slava Jankin Mikhaylov ([s.mikhaylov@essex.ac.uk](s.mikhaylov@essex.ac.uk)), Institute for Analytics and Data Science, University of Essex  
+Slava Jankin Mikhaylov ([jankin@hertie-school.org](jankin@hertie-school.org)), Data Science Lab, Hertie School, Berlin.  
 Jack Blumenau ([J.Blumenau@ucl.ac.uk](J.Blumenau@ucl.ac.uk)), Department of Political Science, UCL
 
 This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Big Data Analytics*](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in July-August 2018 by Kenneth Benoit, Slava Mikhaylov, and Jack Blumenau.  
@@ -12,19 +12,19 @@ This repository contains the class materials for the [Research Methods, Data Sci
 
 | Day | Date      | Instructor | Topic |
 |:---:|:----------|:-----------|:------|
-| 1  | Mo 30 Jul | KB         | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
-| 2  | Tu 31 Jul | KB         | [The Shape of Data](#2-the-shape-of-data) |
-| 3  | We 1 Aug  | KB         | [Working with Databases](#3-working-with-databases) |
-| 4  | Th 2 Aug  | KB         | [Linear Regression](#4-linear-regression) |
-| 5  | Mo 6 Aug  | SM         | [Classification](#5-classification) |
-| 6  | Tu 7 Aug  | GC         | [Resampling methods, model selection and regularization](#6-resampling-methods-model-selection-and-regularization) |
-| 7  | We 8 Aug  | SM         | [Non-linear models and tree-based methods](#7-non-linear-models-and-tree-based-methods) |
-| 8  | Th 9 Aug  | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
-| 9  | Mo 13 Aug | JB         | [Text analysis](#9-text-analysis) |
-| 10 | Tu 14 Aug | KB         | [Text classification and scaling](#10-tbc) |
-| 11 | We 15 Aug | JB         | [Data from the Web](#11-data-from-the-web) |
-| 12 | Th 16 Aug | JB         | [Topic modelling (and text networks)](#12-network-analysis) |
-| 13 | Fr 17 Aug |            | [Final Exam](#assessment) |
+| 1  | Mo 29 Jul | KB         | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
+| 2  | Tu 30 Jul | KB         | [The Shape of Data](#2-the-shape-of-data) |
+| 3  | We 31 Aug  | KB         | [Working with Databases](#3-working-with-databases) |
+| 4  | Th 1 Aug  | KB         | [Linear Regression](#4-linear-regression) |
+| 5  | Mo 5 Aug  | SM         | [Classification](#5-classification) |
+| 6  | Tue 6 Aug  | SM         | [Non-linear models and tree-based methods](#7-non-linear-models-and-tree-based-methods) |
+| 7  | Wed 7 Aug  | GC         | [Resampling methods, model selection and regularization](#6-resampling-methods-model-selection-and-regularization) |
+| 8  | Th 8 Aug  | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
+| 9  | Mo 12 Aug | JB         | [Text analysis](#9-text-analysis) |
+| 10 | Tu 13 Aug | KB         | [Text classification and scaling](#10-tbc) |
+| 11 | We 14 Aug | JB         | [Data from the Web](#11-data-from-the-web) |
+| 12 | Th 15 Aug | JB         | [Topic modelling (and text networks)](#12-network-analysis) |
+| 13 | Fr 16 Aug |            | [Final Exam](#assessment) |
 
 
 
@@ -255,27 +255,7 @@ Logistic regression, discriminant analysis, Naive Bayes, evaluating model perfor
 
 ***
 
-#### 6. Resampling methods, model selection and regularization
-
-Cross-validation, bootstrap, ridge and lasso.
-
-##### Resources
-
-* [Lecture Notes](lecturenotes/ME314_day6.pdf)
-* [Lab 6 materials](https://lse-me314.github.io/assignment06/)
-* [World Bank South Africa NDP](https://github.com/sjankin/RSAdevplans)
-
-##### Required Reading
-
-* James et al., Chapter 5-6.
-
-##### Recommended Reading
-
-* Lesmeister, Chapter 4.
-
-***
-
-#### 7. Non-linear models and tree-based methods
+#### 6. Non-linear models and tree-based methods
 
 GAMs, local regression, decision trees, random forest, boosting.
 
@@ -294,6 +274,27 @@ GAMs, local regression, decision trees, random forest, boosting.
 * Lesmeister, Chapter 6.
 * Zumel and Mount, Chapter 9.1-9.3.
 * Muchlinksi, D., Siroky, D., Jingrui, H., Kocher, M., (2016) "Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data." _Political Analysis_, 24(1): 87-103.
+
+***
+
+#### 7. Resampling methods, model selection and regularization
+
+Cross-validation, bootstrap, ridge and lasso.
+
+##### Resources
+
+* [Lecture Notes](lecturenotes/ME314_day6.pdf)
+* [Lab 6 materials](https://lse-me314.github.io/assignment06/)
+* [World Bank South Africa NDP](https://github.com/sjankin/RSAdevplans)
+
+##### Required Reading
+
+* James et al., Chapter 5-6.
+
+##### Recommended Reading
+
+* Lesmeister, Chapter 4.
+
 
 ***
 
@@ -327,7 +328,7 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 * [Lecture Notes](lecturenotes/ME314_day9.pdf)
 * [Lab 09 materials](https://lse-me314.github.io/assignment09/)
-  
+
 
 ##### Required reading
 
@@ -384,13 +385,13 @@ The promises and pitfalls of social media data. The Twitter API. The Facebook AP
 * Broniatowski, David A, Michael J Paul, and Mark Dredze. 2013. "National and Local Influenza Surveillance Through Twitter: an Analysis of the 2012-2013 Influenza Epidemic" _PLoS ONE_ 8(12): 83672–78. [PDF here](day11/Broniatowski.pdf)
 * Barbera, Pablo., 2017. [``Less is more? How demographic sample weights can improve public opinion estimates based on Twitter data.''](http://pablobarbera.com/static/less-is-more.pdf) _Working Paper_
 * Munger, Kevin., 2017. [``Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment''](https://link.springer.com/article/10.1007%2Fs11109-016-9373-5) _Political Behaviour_ 39(3): 629-649
-* Ginsberg et al., 2008. [``Detecting influenza epidemics using search engine query data''](https://www.nature.com/articles/nature07634) _Nature_ 457: 1012–1014. 
+* Ginsberg et al., 2008. [``Detecting influenza epidemics using search engine query data''](https://www.nature.com/articles/nature07634) _Nature_ 457: 1012–1014.
 * Lazer et al., 2014. [``The Parable of Google Flu: Traps in Big Data Analysis''](http://science.sciencemag.org/content/343/6176/1203.full) _Science_ 343: 1203-1205
 * [Earthquake shakes Twitter users: real-time event detection by social sensors](http://www.ymatsuo.com/papers/www2010.pdf
  )
 * http://rcrastinate.blogspot.co.uk/2015/02/mapping-world-with-tweets-including-gif.html
 * https://github.com/pablobarbera/streamR
-* Matthew Russell (2013). _Mining the Social Web_. O'Reilly Media. 2nd edition. 
+* Matthew Russell (2013). _Mining the Social Web_. O'Reilly Media. 2nd edition.
 
 ##### To use the twitteR package in R:
 * Twitter Authentication setup:
