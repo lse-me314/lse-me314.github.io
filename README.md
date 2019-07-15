@@ -4,9 +4,9 @@ London School of Economics and Political Science
 
 Kenneth Benoit ([kbenoit@lse.ac.uk](kbenoit@lse.ac.uk)), Department of Methodology, LSE  
 Slava Jankin Mikhaylov ([jankin@hertie-school.org](jankin@hertie-school.org)), Data Science Lab, Hertie School, Berlin.  
-Jack Blumenau ([J.Blumenau@ucl.ac.uk](J.Blumenau@ucl.ac.uk)), Department of Political Science, UCL
+Jack Blumenau ([j.blumenau@ucl.ac.uk](j.blumenau@ucl.ac.uk)), Department of Political Science, UCL
 
-This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Big Data Analytics*](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in July-August 2018 by Kenneth Benoit, Slava Mikhaylov, and Jack Blumenau.  
+This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Big Data Analytics*](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in July-August 2019 by Kenneth Benoit, Slava Mikhaylov, and Jack Blumenau.  
 
 ### Quick links to topics
 
@@ -22,8 +22,8 @@ This repository contains the class materials for the [Research Methods, Data Sci
 | 8  | Th 8 Aug  | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
 | 9  | Mo 12 Aug | JB         | [Text analysis](#9-text-analysis) |
 | 10 | Tu 13 Aug | KB         | [Text classification and scaling](#10-tbc) |
-| 11 | We 14 Aug | JB         | [Data from the Web](#11-data-from-the-web) |
-| 12 | Th 15 Aug | JB         | [Topic modelling (and text networks)](#12-network-analysis) |
+| 11 | We 14 Aug | JB         | [Topic modelling](#11-topic-models)|
+| 12 | Th 15 Aug | JB         | [Data from the Web](#12-data-from-the-web) |
 | 13 | Fr 16 Aug |            | [Final Exam](#assessment) |
 
 
@@ -113,7 +113,7 @@ The following are supplemental texts which you may also find useful:
 
 **Slava Jankin Mikhaylov** is Professor of Public Policy and Data Science at University of Essex, holding a joint appointment in Department of Government and School of Computer Science and Electronic Engineering Institute for Analytics and Data Science (IADS). He serves as a Chief Scientific Adviser to Essex County Council. His current work focuses on embedding artificial intelligence and data science in public service delivery.
 
-**Jack Blumenau** is a Lecturer in Quantitative Methods at the UCL Department of Political Science. he was previously an ESRC "Future Research Leader" post-doc in the Methodology Department at the LSE. His research explores the effects of legislative leaders on the behaviour of parliamentarians in the European Parliament and the UK House of Commons.
+**Jack Blumenau** is a Lecturer in Quantitative Methods at the UCL Department of Political Science, and a Data Science Advisor to YouGov. He was previously an ESRC "Future Research Leader" post-doc in the Methodology Department at the LSE. His research is primarily in the fields of legislative and electoral politics.
 
 
 ### Assessment
@@ -344,7 +344,25 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 ***
 
-#### 10. Topic modelling
+#### 10. Text classification and scaling
+
+Content to be added
+
+##### Resources
+
+Content to be added
+
+##### Required reading
+
+Content to be added
+
+##### Recommended Reading
+
+Content to be added
+
+***
+
+#### 11. Topic modelling
 
 Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
@@ -369,7 +387,7 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 ***
 
-#### 11. Data from the Web
+#### 12. Data from the Web
 
 The promises and pitfalls of social media data. The Twitter API. The Facebook API. Web scraping. Ethics.
 
@@ -403,21 +421,3 @@ The promises and pitfalls of social media data. The Twitter API. The Facebook AP
 
 ***
 
-#### 12. Network Analysis
-
-More text analysis, including dictionaries and identifying keywords; and an introduction to network analysis.  Will also include an exam review.
-
-##### Resources
-
-* [Lecture Notes](lecturenotes/ME314_day12.pdf)
-* [Lab 12 materials](https://lse-me314.github.io/assignment12/)
-
-##### Required reading
-
-* Stephen Borgatti, Ajay Mehra, Daniel Brass, Giuseppe Labianca. 2009. "Network Analysis in the Social Sciences" _Science_ 323, 892-895
-
-##### Recommended Reading
-
-* [Using Metadata to Find Paul Revere](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)
-* G. Erkan and D. Radev. 2004. "LexRank: Graph-based lexical centrality as salience in text summarization" _Journal of Artificial Intelligence Research_ 22, 457 - 479
-* Miller McPherson, Lynn Smith-Lovin, and James M Cook. 2001. "Birds of a Feather: Homophily in Social Networks" _Annual Review of Sociology_ 27, 415-44
