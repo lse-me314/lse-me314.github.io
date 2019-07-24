@@ -5,8 +5,9 @@ London School of Economics and Political Science
 Kenneth Benoit ([kbenoit@lse.ac.uk](kbenoit@lse.ac.uk)), Department of Methodology, LSE  
 Slava Jankin Mikhaylov ([jankin@hertie-school.org](jankin@hertie-school.org)), Data Science Lab, Hertie School, Berlin.  
 Jack Blumenau ([j.blumenau@ucl.ac.uk](j.blumenau@ucl.ac.uk)), Department of Political Science, UCL
+Gokhan Ciflikli ([G.Ciflikli@lse.ac.uk](G.Ciflikli@lse.ac.uk)), Department of Methodology, LSE  
 
-This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Big Data Analytics*](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in July-August 2019 by Kenneth Benoit, Slava Mikhaylov, and Jack Blumenau.  
+This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Machine Learning*](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in July-August 2019 by Kenneth Benoit, Slava Mikhaylov, Jack Blumenau, and Gokhan Ciflikli.  
 
 ### Quick links to topics
 
@@ -17,11 +18,11 @@ This repository contains the class materials for the [Research Methods, Data Sci
 | 3  | We 31 Aug  | KB         | [Working with Databases](#3-working-with-databases) |
 | 4  | Th 1 Aug  | KB         | [Linear Regression](#4-linear-regression) |
 | 5  | Mo 5 Aug  | SM         | [Classification](#5-classification) |
-| 6  | Tue 6 Aug  | SM         | [Non-linear models and tree-based methods](#7-non-linear-models-and-tree-based-methods) |
-| 7  | Wed 7 Aug  | GC         | [Resampling methods, model selection and regularization](#6-resampling-methods-model-selection-and-regularization) |
-| 8  | Th 8 Aug  | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
+| 6  | Tue 6 Aug  | SM         | [Non-linear models and tree-based methods](#6-non-linear-models-and-tree-based-methods) |
+| 7  | Wed 7 Aug  | GC         | [Resampling methods, model selection and regularization](#7-resampling-methods-model-selection-and-regularization) |
+| 8  | Th 8 Aug  | GC         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
 | 9  | Mo 12 Aug | JB         | [Text analysis](#9-text-analysis) |
-| 10 | Tu 13 Aug | KB         | [Text classification and scaling](#10-tbc) |
+| 10 | Tu 13 Aug | KB         | [Text classification and scaling](#10-text-classification-and-scaling) |
 | 11 | We 14 Aug | JB         | [Topic modelling](#11-topic-models)|
 | 12 | Th 15 Aug | JB         | [Data from the Web](#12-data-from-the-web) |
 | 13 | Fr 16 Aug |            | [Final Exam](#assessment) |
