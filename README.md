@@ -1,4 +1,4 @@
-#### LSE Methods Summer Programme 2018
+#### LSE Methods Summer Programme 2019
 
 London School of Economics and Political Science
 
