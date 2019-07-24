@@ -23,7 +23,7 @@ This repository contains the class materials for the [Research Methods, Data Sci
 | 8  | Th 8 Aug  | GC         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
 | 9  | Mo 12 Aug | JB         | [Text analysis](#9-text-analysis) |
 | 10 | Tu 13 Aug | KB         | [Text classification and scaling](#10-text-classification-and-scaling) |
-| 11 | We 14 Aug | JB         | [Topic modelling](#11-topic-models)|
+| 11 | We 14 Aug | JB         | [Topic modelling](#11-topic-modelling)|
 | 12 | Th 15 Aug | JB         | [Data from the Web](#12-data-from-the-web) |
 | 13 | Fr 16 Aug |            | [Final Exam](#assessment) |
 
