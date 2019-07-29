@@ -109,12 +109,13 @@ The following are supplemental texts which you may also find useful:
 
 ### Instructors
 
-**Kenneth Benoit** is Professor of Quantitative Social Research Methods at the Department of Methodology, LSE. With a background in political science, his substantive work focuses on political party competition, political measurement issues, and electoral systems. His research and teaching is primarily in the field of social science statistical applications. His recent work concerns the quantitative analysis of text as data, for which he has developed a package for the R statistical software.
+**Kenneth Benoit** is Professor of Computational Social Science at the Department of Methodology, LSE. With a background in political science, his substantive work focuses on political party competition, political measurement issues, and electoral systems. His research and teaching is primarily in the field of social science statistical applications. His recent work concerns the quantitative analysis of text as data, for which he has developed a package for the R statistical software.
 
-
-**Slava Jankin Mikhaylov** is Professor of Public Policy and Data Science at University of Essex, holding a joint appointment in Department of Government and School of Computer Science and Electronic Engineering Institute for Analytics and Data Science (IADS). He serves as a Chief Scientific Adviser to Essex County Council. His current work focuses on embedding artificial intelligence and data science in public service delivery.
+**Slava Jankin Mikhaylov** is Professor of Public Policy and Data Science at the Hertie School of Governance, Berlin.  His current work focuses on embedding artificial intelligence and data science in public service delivery.
 
 **Jack Blumenau** is a Lecturer in Quantitative Methods at the UCL Department of Political Science, and a Data Science Advisor to YouGov. He was previously an ESRC "Future Research Leader" post-doc in the Methodology Department at the LSE. His research is primarily in the fields of legislative and electoral politics.
+
+**Gökhan Çiflikli** is a data scientist specialising in machine learning, time-series forecasting, and natural language processing, is a research officer in data science in the Department of Methodology at the LSE.
 
 
 ### Assessment
@@ -127,15 +128,15 @@ See [https://lse-me314.github.io/instructions](https://lse-me314.github.io/instr
 
 #### Mid-term project
 
-The class assignment for Day 5 will count as the mid-term assignment, which will count for 25% of the grade.  The [mid-term is available here](https://lse-me314.github.io/midterm-2018/).
+The class assignment for Day 5 will count as the mid-term assignment, which will count for 25% of the grade.  The [mid-term is available here](https://lse-me314.github.io/midterm-2019/).
 
 #### Exam
 
-Friday, 17 August.  This will be a "take-home" exam.  You are welcome to use a lab as a quiet room on Friday to complete the assignment, but you can also do this from home.  Instructors will be available throughout the day by email for answering any procedural questions or clarifying anything about the exam that is unclear.
+Friday, 16 August.  This will be a "take-home" exam.  You are welcome to use a lab as a quiet room on Friday to complete the assignment, but you can also do this from home.  Instructors will be available throughout the day by email for answering any procedural questions or clarifying anything about the exam that is unclear.
 
 * __Instructions:__  [The exam is here](https://lse-me314.github.io/finalexam/).  Complete and submit the exam just as you would any lab assignment: by renaming the file, editing the R Markdown, knitting, and submitting through Moodle your knitted HTML file.  
 * __Formatting:__  Put your own textual answers in boldface (using `**boldface type**` in RMarkdown), so that we can easily identify them when reviewing your HTML file.  
-* __Deadline:__ Monday 20 August 17:00 London time (GMT+1)  
+* __Deadline:__ Monday 19 August 17:00 London time (GMT+1)  
 
 
 ### Detailed Course Schedule
