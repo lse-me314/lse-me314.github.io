@@ -9,6 +9,16 @@ ME314, LSE Methods Summer Programme 2019
 
 To avoid configuration problems, we have set up an RStudio server environment that contains all that you need to use for this course, on a cloud server.  You can access to the server at [https://rstudio.lse.ac.uk](https://rstudio.lse.ac.uk) using your LSE username and password.  You only need a web browser and an Internet connection to use this.
 
+**If you are having trouble loading the login page** logging into the service and gets a "too many redirects" error then either using another browser or clearing cookies, in chrome with the following information:
+
+![Chrome](image001.png)
+
+This can be fixed by clearing cookies for rstudio.lse.ac.uk and auth.lse.ac.uk.  For instance in Chrome, by clicking the padlock in the location bar:
+
+![Chrome](image002.png)
+
+
+
 ### Using R/RStudio locally
 
 For local installation, you can follow one of numerous instructions online, for example [here](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027).   You should first install [R](https://cran.r-project.org) and then [RStudio](http://www.rstudio.com).
