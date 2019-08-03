@@ -268,9 +268,8 @@ GAMs, local regression, decision trees, random forest, boosting.
 
 ##### Resources
 
-* [Lecture Notes](lecturenotes/ME314_day7.pdf)
-* [Lab 7 materials](https://lse-me314.github.io/assignment07/)
-* [United Nations example](https://github.com/sjankin/UnitedNations)
+* [Lecture Notes](lecturenotes/ME314_day6.pdf)
+* [Lab 6 materials](https://lse-me314.github.io/assignment06/)
 
 ##### Required Reading
 
@@ -290,9 +289,8 @@ Cross-validation, bootstrap, ridge and lasso.
 
 ##### Resources
 
-* [Lecture Notes](lecturenotes/ME314_day6.pdf)
-* [Lab 6 materials](https://lse-me314.github.io/assignment06/)
-* [World Bank South Africa NDP](https://github.com/sjankin/RSAdevplans)
+* [Lecture Notes](lecturenotes/ME314_day7.pdf)
+* [Lab 7 materials](https://lse-me314.github.io/assignment07/)
 
 ##### Required Reading
 
