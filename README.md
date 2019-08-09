@@ -374,8 +374,8 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 ##### Resources
 
-* [Lecture Notes](lecturenotes/ME314_day10.pdf)
-* [Lab 10 materials](https://lse-me314.github.io/assignment10/)
+* [Lecture Notes](lecturenotes/ME314_day11.pdf)
+* [Lab 11 materials](https://lse-me314.github.io/assignment11/)
 
 
 ##### Required reading
