@@ -151,7 +151,7 @@ We will use this session to get to know the range of interests and experience st
 * [Lecture Notes Part 1](lecturenotes/ME314_day1.1.pdf)
 * [Lecture Notes Part 2](lecturenotes/ME314_day1.2.pdf)
 * [Lab 1 materials](https://lse-me314.github.io/assignment01/)
-* Lab 1 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment1_solution.Rmd)
+* Lab 1 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment1_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment1_solution.html).
 
 <!--- * [The results of the data science quiz](http://htmlpreview.github.com/?https://github.com/kbenoit/ME314/blob/master/day1/data_science_quiz.html) and the [anonymized dataset in .csv format](day1/data_science_quiz_results.csv). -->
 
@@ -271,7 +271,7 @@ GAMs, local regression, decision trees, random forest, boosting.
 
 * [Lecture Notes](lecturenotes/ME314_day6.pdf)
 * [Lab 6 materials](https://lse-me314.github.io/assignment06/)
-
+* Lab 6 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html).
 ##### Required Reading
 
 * James et al., Chapter 7-8.
@@ -292,6 +292,7 @@ Cross-validation, bootstrap, ridge and lasso.
 
 * [Lecture Notes](lecturenotes/ME314_day7.pdf)
 * [Lab 7 materials](https://lse-me314.github.io/assignment07/)
+* Lab 7 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html).
 
 ##### Required Reading
 
@@ -312,6 +313,7 @@ Cluster analysis, PCA, correspondence analysis, association rules.
 
 * [Lecture Notes](lecturenotes/ME314_day8.pdf)
 * [Lab 8 materials](https://lse-me314.github.io/assignment08/)
+* Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html).
 
 ##### Required reading
 
@@ -334,7 +336,7 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 * [Lecture Notes](lecturenotes/ME314_day9.pdf)
 * [Lab 09 materials](https://lse-me314.github.io/assignment09/)
-
+* Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html).
 
 ##### Required reading
 
@@ -346,7 +348,8 @@ Working with text in R, sentiment analysis, dictionary methods.
 * Denny, M.J. and Spirling, A. (2018),[``Text Preprocessing For Unsupervised Learning: Why It Matters, When It Misleads, And What To Do About It''](https://www.cambridge.org/core/journals/political-analysis/article/text-preprocessing-for-unsupervised-learning-why-it-matters-when-it-misleads-and-what-to-do-about-it/AA7D4DE0AA6AB208502515AE3EC6989E) _Political Analysis_
 * Spirling, A. (2012), [``Democratization and Linguistic Complexity: The Effect of Franchise Extension on Parliamentary Discourse, 1832–1915.''](https://www.journals.uchicago.edu/doi/abs/10.1086/683612) _Journal of Politics_
 * Herzog, A. and K. Benoit (2015), ``The most unkindest cuts: Speaker selection and expressed government dissent during economic crisis.'' _Journal of Politics_, 77(4):1157--1175.
-* Benoit, K., Munger, K., and Spirling, A.  [``Measuring and Explaining Political Sophistication Through Textual Complexity.''](http://ssrn.com/abstract=3062061), _Working Paper_
+* Benoit, K., Munger, K., and Spirling, A.  [``Measuring and Explaining Political Sophistication Through Textual Complexity.''](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12423), _American Journal of Political Science_ 63(2, April): 491–508. 10.1111/ajps.12423.
+
 
 ***
 
@@ -375,8 +378,8 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 ##### Resources
 
 * [Lecture Notes](lecturenotes/ME314_day10.pdf)
-* [Lab 10 materials](https://lse-me314.github.io/assignment10/)
-
+* [Lab 11 materials](https://lse-me314.github.io/assignment11/)
+* Lab 11 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html).
 
 ##### Required reading
 
