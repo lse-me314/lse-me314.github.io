@@ -377,9 +377,10 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 ##### Resources
 
-* [Lecture Notes](lecturenotes/ME314_day10.pdf)
+* [Lecture Notes](lecturenotes/ME314_day11.pdf)
 * [Lab 11 materials](https://lse-me314.github.io/assignment11/)
 * Lab 11 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html).
+
 
 ##### Required reading
 
@@ -402,10 +403,11 @@ The promises and pitfalls of social media data. The Twitter API. The Facebook AP
 
 ##### Resources
 
-* [Lecture Notes](lecturenotes/ME314_day11.pdf)
-* [Lab 11 materials](https://lse-me314.github.io/assignment11/)
+* [Lecture Notes](lecturenotes/ME314_day12.pdf)
+* [Lab 12 materials](https://lse-me314.github.io/assignment12/)
 * [R script for twitteR lecture example](lecturenotes/misc/twitteR_examples.R)
 * [R script for web scraping lecture example](lecturenotes/misc/game_of_thrones.R)
+
 
 ##### Recommended Reading:
 
@@ -420,10 +422,11 @@ The promises and pitfalls of social media data. The Twitter API. The Facebook AP
 * https://github.com/pablobarbera/streamR
 * Matthew Russell (2013). _Mining the Social Web_. O'Reilly Media. 2nd edition.
 
-##### To use the twitteR package in R:
+##### To use the `rtweet` package in R:
+* [`rtweet` vignette](https://github.com/mkearney/rtweet)
 * Twitter Authentication setup:
     + [Official](https://dev.twitter.com/oauth/overview/application-owner-access-tokens)
-    + [Walkthrough](http://wiki.communitydata.cc/Twitter_authentication_setup)  
+    + [Walkthrough](https://rtweet.info/articles/auth.html)  
 * Twitter API documentation:
     + [Overview of REST API](https://dev.twitter.com/rest/public)
     + [Overview of streaming API](https://dev.twitter.com/streaming/overview)
