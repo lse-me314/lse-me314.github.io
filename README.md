@@ -355,19 +355,29 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 #### 10. Text classification and scaling
 
-Content to be added
+Naive Bayes classifier, Wordscores, Wordfish, and correspondence analysis.
 
 ##### Resources
 
-Content to be added
+* [Lecture Notes](lecturenotes/ME314_day10.pdf)
+* [Lab 10 materials](https://lse-me314.github.io/assignment10/)
+* Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html).
 
 ##### Required reading
 
-Content to be added
+Laver, M., Benoit, K., & Garry, J. (2003). Extracting Policy Positions from Political Texts Using Words as Data. American Political Science Review, 97(2), 311-331. doi:10.1017/S0003055403000698
+
+Slapin, J. B. and Proksch, S. (2008), A Scaling Model for Estimating Time‐Series Party Positions from Texts. American Journal of Political Science, 52: 705-722. doi:10.1111/j.1540-5907.2008.00338.x
 
 ##### Recommended Reading
 
-Content to be added
+* [Statsoft, "Naive Bayes Classifier Introductory Overview."](http://www.statsoft.com/textbook/naive-bayes-classifier)
+* An [online article by Paul Graham on classifying spam e-mail](http://www.paulgraham.com/spam.html).
+* Bionicspirit.com, 9 Feb 2012, ["How to Build a Naive Bayes Classifier."](http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html)
+* Lowe, W. (2008). Understanding wordscores. Political Analysis, 16(4), 356-371.
+* Benoit, Kenneth and Paul Nulty. 2013. “Classification Methods for Scaling Latent Political Traits.”
+Presented at the Annual Meeting of the Midwest Political Science Association, April 11–14,
+Chicago.
 
 ***
 
