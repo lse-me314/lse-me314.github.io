@@ -5,7 +5,7 @@ London School of Economics and Political Science
 Kenneth Benoit ([kbenoit@lse.ac.uk](kbenoit@lse.ac.uk)), Department of Methodology, LSE  
 Slava Jankin Mikhaylov ([jankin@hertie-school.org](jankin@hertie-school.org)), Data Science Lab, Hertie School, Berlin  
 Jack Blumenau ([j.blumenau@ucl.ac.uk](j.blumenau@ucl.ac.uk)), Department of Political Science, UCL  
-Gokhan Ciflikli ([G.Ciflikli@lse.ac.uk](G.Ciflikli@lse.ac.uk)), Department of Methodology, LSE  
+Gökhan Çiflikli ([g.ciflikli@lse.ac.uk](g.ciflikli@lse.ac.uk)), Department of Methodology, LSE  
 
 This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Machine Learning*](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in July-August 2019 by Kenneth Benoit, Slava Mikhaylov, Jack Blumenau, and Gokhan Ciflikli.  
 
@@ -115,7 +115,7 @@ The following are supplemental texts which you may also find useful:
 
 **Jack Blumenau** is a Lecturer in Quantitative Methods at the UCL Department of Political Science, and a Data Science Advisor to YouGov. He was previously an ESRC "Future Research Leader" post-doc in the Methodology Department at the LSE. His research is primarily in the fields of legislative and electoral politics.
 
-**Gökhan Çiflikli** is a data scientist specialising in machine learning, time-series forecasting, and natural language processing, is a research officer in data science in the Department of Methodology at the LSE.
+**Gökhan Çiflikli** is a Senior Data Scientist at Attest. He specialises in interpretable machine learning, time-series forecasting, and natural language processing. He was previously a research officer in analytic software development in the Department of Methodology at the LSE.
 
 
 ### Assessment
@@ -356,19 +356,29 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 #### 10. Text classification and scaling
 
-Content to be added
+Naive Bayes classifier, Wordscores, Wordfish, and correspondence analysis.
 
 ##### Resources
 
-Content to be added
+* [Lecture Notes](lecturenotes/ME314_day10.pdf)
+* [Lab 10 materials](https://lse-me314.github.io/assignment10/)
+* Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html).
 
 ##### Required reading
 
-Content to be added
+Laver, M., Benoit, K., & Garry, J. (2003). Extracting Policy Positions from Political Texts Using Words as Data. American Political Science Review, 97(2), 311-331. doi:10.1017/S0003055403000698
+
+Slapin, J. B. and Proksch, S. (2008), A Scaling Model for Estimating Time‐Series Party Positions from Texts. American Journal of Political Science, 52: 705-722. doi:10.1111/j.1540-5907.2008.00338.x
 
 ##### Recommended Reading
 
-Content to be added
+* [Statsoft, "Naive Bayes Classifier Introductory Overview."](http://www.statsoft.com/textbook/naive-bayes-classifier)
+* An [online article by Paul Graham on classifying spam e-mail](http://www.paulgraham.com/spam.html).
+* Bionicspirit.com, 9 Feb 2012, ["How to Build a Naive Bayes Classifier."](http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html)
+* Lowe, W. (2008). Understanding wordscores. Political Analysis, 16(4), 356-371.
+* Benoit, Kenneth and Paul Nulty. 2013. “Classification Methods for Scaling Latent Political Traits.”
+Presented at the Annual Meeting of the Midwest Political Science Association, April 11–14,
+Chicago.
 
 ***
 
@@ -380,8 +390,9 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 * [Lecture Notes](lecturenotes/ME314_day11.pdf)
 * [Lab 11 materials](https://lse-me314.github.io/assignment11/)
+<!---
 * Lab 11 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html).
-
+--->
 
 ##### Required reading
 
