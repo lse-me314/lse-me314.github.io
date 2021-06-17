@@ -50,8 +50,9 @@ The course will be delivered as a series of morning lectures (held from 10am to 
 - supervised learning approaches, including linear and logistic regression, decision trees, and naïve Bayes  
 - unsupervised learning approaches, including clustering, association rules, and principal components analysis  
 - quantitative methods of text analysis, including mining social media and other online resources  
-<!---- social network analysis, covering the basics of social graph data and analysing social networks  --->
 - data visualisation through a variety of graphs.  
+
+<!---- social network analysis, covering the basics of social graph data and analysing social networks  --->
 
 ## Hybrid learning
 
@@ -156,6 +157,7 @@ We will use this session to get to know the range of interests and experience st
 ##### Resources
 
 To be added.
+
 <!---
 
 * [Lecture Notes Part 1](lecturenotes/ME314_day1.1.pdf)
@@ -192,6 +194,7 @@ This week introduces the concept of data "beyond the spreadsheet", the rectangul
 ##### Resources
 
 To be added.
+
 <!---
 
 * [Lecture Notes](https://github.com/lse-me314/lse-me314.github.io/blob/master/lecturenotes/ME314_day2.ipynb)
@@ -220,6 +223,7 @@ We will return to database normalization, and how to implement this using good p
 ##### Resources
 
 To be added.
+
 <!---
 
 * [Lecture Notes](https://github.com/lse-me314/lse-me314.github.io/blob/master/lecturenotes/ME314_day3.ipynb)
@@ -248,6 +252,7 @@ Linear regression model and supervised learning.
 ##### Resources
 
 To be added.
+
 <!---
 
 * [Lecture Notes](lecturenotes/ME314_day4.pdf)
@@ -274,6 +279,7 @@ Logistic regression, discriminant analysis, Naive Bayes, evaluating model perfor
 ##### Resources
 
 To be added.
+
 <!---
 
 * [Lecture Notes](lecturenotes/ME314_day5.pdf)
@@ -301,6 +307,7 @@ GAMs, local regression, decision trees, random forest, boosting.
 ##### Resources
 
 To be added.
+
 <!---
 
 * [Lecture Notes](lecturenotes/ME314_day6.pdf)
@@ -328,6 +335,7 @@ Cross-validation, bootstrap, ridge and lasso.
 ##### Resources
 
 To be added.
+
 <!---
 
 * [Lecture Notes](lecturenotes/ME314_day7.pdf)
@@ -354,6 +362,7 @@ Cluster analysis, PCA, factor analysis
 ##### Resources
 
 To be added.
+
 <!---
 
 * [Lecture Notes](lecturenotes/ME314_day8.pdf)
@@ -382,6 +391,7 @@ Working with text in R, sentiment analysis, dictionary methods.
 ##### Resources
 
 To be added.
+
 <!---
 
 * [Lecture Notes](lecturenotes/ME314_day9.pdf)
@@ -412,6 +422,7 @@ Naive Bayes classifier, Wordscores, Wordfish, and correspondence analysis.
 ##### Resources
 
 To be added.
+
 <!---
 
 * [Lecture Notes](lecturenotes/ME314_day10.pdf)
@@ -446,6 +457,7 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 ##### Resources
 
 To be added.
+
 <!---
 
 * [Lecture Notes](lecturenotes/ME314_day11.pdf)
@@ -481,6 +493,7 @@ The promises and pitfalls of social media data. The Twitter API. The Facebook AP
 ##### Resources
 
 To be added.
+
 <!---
 
 
