@@ -3,29 +3,27 @@
 London School of Economics and Political Science
 
 Kenneth Benoit ([kbenoit@lse.ac.uk](kbenoit@lse.ac.uk)), Department of Methodology, LSE  
-Slava Jankin Mikhaylov ([jankin@hertie-school.org](jankin@hertie-school.org)), Data Science Lab, Hertie School, Berlin  
 Jack Blumenau ([j.blumenau@ucl.ac.uk](j.blumenau@ucl.ac.uk)), Department of Political Science, UCL  
-Gökhan Çiflikli ([g.ciflikli@lse.ac.uk](g.ciflikli@lse.ac.uk)), Department of Methodology, LSE  
 
-This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Machine Learning*](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in July-August 2019 by Kenneth Benoit, Slava Mikhaylov, Jack Blumenau, and Gokhan Ciflikli.  
+This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Machine Learning*](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in June-July 2021 by Kenneth Benoit and Jack Blumenau.  
 
 ### Quick links to topics
 
 | Day | Date      | Instructor | Topic |
 |:---:|:----------|:-----------|:------|
-| 1  | Mo 29 Jul | KB         | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
-| 2  | Tu 30 Jul | KB         | [The Shape of Data](#2-the-shape-of-data) |
-| 3  | We 31 Aug  | KB         | [Working with Databases](#3-working-with-databases) |
-| 4  | Th 1 Aug  | KB         | [Linear Regression](#4-linear-regression) |
-| 5  | Mo 5 Aug  | SM         | [Classification](#5-classification) |
-| 6  | Tue 6 Aug  | SM         | [Non-linear models and tree-based methods](#6-non-linear-models-and-tree-based-methods) |
-| 7  | Wed 7 Aug  | GC         | [Resampling methods, model selection and regularization](#7-resampling-methods-model-selection-and-regularization) |
-| 8  | Th 8 Aug  | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
-| 9  | Mo 12 Aug | JB         | [Text analysis](#9-text-analysis) |
-| 10 | Tu 13 Aug | GC         | [Text classification and scaling](#10-text-classification-and-scaling) |
-| 11 | We 14 Aug | JB         | [Topic modelling](#11-topic-modelling)|
-| 12 | Th 15 Aug | JB         | [Data from the Web](#12-data-from-the-web) |
-| 13 | Fr 16 Aug |            | [Final Exam](#assessment) |
+| 1  | Mo 21 Jun | KB         | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
+| 2  | Tu 22 Jun | KB         | [The Shape of Data](#2-the-shape-of-data) |
+| 3  | We 23 Jun  | KB         | [Working with Databases](#3-working-with-databases) |
+| 4  | Th 24 Jun  | KB         | [Linear Regression](#4-linear-regression) |
+| 5  | Mo 28 Jun  | KB         | [Classification](#5-classification) |
+| 6  | Tue 29 Jun  | KB         | [Non-linear models and tree-based methods](#6-non-linear-models-and-tree-based-methods) |
+| 7  | Wed 30 Jun  | JB         | [Resampling methods, model selection and regularization](#7-resampling-methods-model-selection-and-regularization) |
+| 8  | Th 1 Jul  | JB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
+| 9  | Fr 2 Jul | JB         | [Text analysis](#9-text-analysis) |
+| 10 | Mo 5 Jul | JB         | [Text classification and scaling](#10-text-classification-and-scaling) |
+| 11 | Tu 6 Jul | JB         | [Topic modelling](#11-topic-modelling)|
+| 12 | Wed 7 Jul | JB         | [Data from the Web](#12-data-from-the-web) |
+| 13 | Fr 9 Jul |            | [Final Exam](#assessment) |
 
 
 
@@ -39,9 +37,9 @@ Typical students will be advanced undergraduate and postgraduate students from a
 
 ### Objectives
 
-This course aims to provide an introduction to the data science approach to the quantitative analysis of data using the methods of statistical learning, an approach blending classical statistical methods with recent advances in computational and machine learning. We will cover the main analytical methods from this field with hands-on applications using example datasets, so that students gain experience with and confidence in using the methods we cover. We also cover data preparation and processing, including working with structured databases, key-value formatted data (JSON), and unstructured textual data. At the end of this course students will have a sound understanding of the field of data science, the ability to analyse data using some of its main methods, and a solid foundation for more advanced or more specialised study.  
+This course aims to provide an introduction quantitative analysis of data using the methods of statistical learning, an approach blending classical statistical methods with recent advances in computational and machine learning. We will cover the main analytical methods from this field with hands-on applications using example datasets, so that students gain experience with and confidence in using the methods we cover. We also cover data preparation and processing, including working with structured databases, key-value formatted data (JSON), and unstructured textual data. At the end of this course students will have a sound understanding of the field of data science, the ability to analyse data using some of its main methods, and a solid foundation for more advanced or more specialised study.  
 
-The course will be delivered as a series of morning lectures, followed by lab sessions in the afternoon where students will apply the lessons in a series of instructor-guided exercises using data provided as part of the exercises. The course will cover the following topics:
+The course will be delivered as a series of morning lectures (held from 10am to 1pm, with an extended break in the middle), followed by lab sessions in the afternoon where students will apply the lessons in a series of instructor-guided exercises using data provided as part of the exercises. The course will cover the following topics:
 
 - an overview of data science and the challenge of working with big data using statistical methods  
 - how to integrate the insights from data analytics into knowledge generation and decision-making  
@@ -52,8 +50,19 @@ The course will be delivered as a series of morning lectures, followed by lab se
 - supervised learning approaches, including linear and logistic regression, decision trees, and naïve Bayes  
 - unsupervised learning approaches, including clustering, association rules, and principal components analysis  
 - quantitative methods of text analysis, including mining social media and other online resources  
-- social network analysis, covering the basics of social graph data and analysing social networks  
+<!---- social network analysis, covering the basics of social graph data and analysing social networks  --->
 - data visualisation through a variety of graphs.  
+
+## Hybrid learning
+
+Given this year's unusual circumstances, all teaching will be delivered such that students may participate either in person or online.
+
+- Lectures: Lectures will be held between 10am and 1pm each day. Students attending remotely will have the chance either to join via Zoom or to watch the recorded lecture once posted to Moodle as they prefer.
+
+- Classes: 
+    
+    - Two in-person classes each afternoon from 2pm-3.30pm
+    - Two online classes, held on Zoom, at 8am-9.30am and 5pm-6.30pm each day 
 
 
 ### Prerequisites
@@ -74,7 +83,7 @@ If you are not already familiar with R, we strongly encourage you to attempt to 
 * Data Camp [R Markdown tutorials](https://www.datacamp.com/courses/reporting-with-r-markdown), first chapter.
 * [R Codeschool](http://tryr.codeschool.com/).
 
-We strongly recommend you spend some of July and August before the course working through the following materials:
+We also strongly recommend you spend some time before the course working through the following materials:
 
 * Garrett Grolemund and Hadley Wickham (2016) _R for Data Science_, O'Reilly Media. Note: Online version is available from the authors' page [here](http://r4ds.had.co.nz/index.html).
 * James et al. (2013) _An Introduction to Statistical Learning: With applications in R_, Springer, Chapters 1--2. Note: The book is available from the authors' page [here](http://www-bcf.usc.edu/~gareth/ISL/).
@@ -111,11 +120,7 @@ The following are supplemental texts which you may also find useful:
 
 **Kenneth Benoit** is Professor of Computational Social Science at the Department of Methodology, LSE. With a background in political science, his substantive work focuses on political party competition, political measurement issues, and electoral systems. His research and teaching is primarily in the field of social science statistical applications. His recent work concerns the quantitative analysis of text as data, for which he has developed a package for the R statistical software.
 
-**Slava Jankin Mikhaylov** is Professor of Public Policy and Data Science at the Hertie School of Governance, Berlin.  His current work focuses on embedding artificial intelligence and data science in public service delivery.
-
-**Jack Blumenau** is a Lecturer in Quantitative Methods at the UCL Department of Political Science, and a Data Science Advisor to YouGov. He was previously an ESRC "Future Research Leader" post-doc in the Methodology Department at the LSE. His research is primarily in the fields of legislative and electoral politics.
-
-**Gökhan Çiflikli** is a Senior Data Scientist at Attest. He specialises in interpretable machine learning, time-series forecasting, and natural language processing. He was previously a research officer in analytic software development in the Department of Methodology at the LSE.
+**Jack Blumenau** is an Assistant Professor in Quantitative Methods at the UCL Department of Political Science, and a Data Science Advisor to YouGov. His research is primarily in the fields of legislative and electoral politics.
 
 
 ### Assessment
@@ -128,16 +133,17 @@ See [https://lse-me314.github.io/instructions](https://lse-me314.github.io/instr
 
 #### Mid-term project
 
-The class assignment for Day 5 will count as the mid-term assignment, which will count for 25% of the grade.  The [mid-term is available here](https://lse-me314.github.io/midterm-2019/).
+The class assignment for Day 5 will count as the mid-term assignment, which will count for 25% of the grade.  <!--- The [mid-term is available here](https://lse-me314.github.io/midterm-2019/).--->
 
 #### Exam
 
-Friday, 16 August.  This will be a "take-home" exam.  You are welcome to use a lab as a quiet room on Friday to complete the assignment, but you can also do this from home.  Instructors will be available throughout the day by email for answering any procedural questions or clarifying anything about the exam that is unclear.
+The final exam will be set on Friday 9th July.  This will be a "take-home" exam.  You are welcome to use an LSE lab, subject to COVID rules, as a quiet room on Friday to complete the assignment, but you can also do this from home.  Instructors will be available throughout the day by email for answering any procedural questions or clarifying anything about the exam that is unclear.
 
-* __Instructions:__  [The exam is here](https://lse-me314.github.io/finalexam/).  Complete and submit the exam just as you would any lab assignment: by renaming the file, editing the R Markdown, knitting, and submitting through Moodle your knitted HTML file.  
+* __Instructions:__  Complete and submit the exam just as you would any lab assignment: by renaming the file, editing the R Markdown, knitting, and submitting through Moodle your knitted HTML file.  
 * __Formatting:__  Put your own textual answers in boldface (using `**boldface type**` in RMarkdown), so that we can easily identify them when reviewing your HTML file.  
-* __Deadline:__ Monday 19 August 17:00 London time (GMT+1)  
+* __Deadline:__ Monday 12 July 17:00 London time (GMT+1)  
 
+<!---[The exam is here](https://lse-me314.github.io/finalexam/).---> 
 
 ### Detailed Course Schedule
 
@@ -148,10 +154,16 @@ Friday, 16 August.  This will be a "take-home" exam.  You are welcome to use a l
 We will use this session to get to know the range of interests and experience students bring to the class, as well as to survey the machine learning approaches to be covered. We will also discuss and demonstrate the R software.
 
 ##### Resources
+
+To be added.
+<!---
+
 * [Lecture Notes Part 1](lecturenotes/ME314_day1.1.pdf)
 * [Lecture Notes Part 2](lecturenotes/ME314_day1.2.pdf)
 * [Lab 1 materials](https://lse-me314.github.io/assignment01/)
 * Lab 1 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment1_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment1_solution.html).
+
+--->
 
 <!--- * [The results of the data science quiz](http://htmlpreview.github.com/?https://github.com/kbenoit/ME314/blob/master/day1/data_science_quiz.html) and the [anonymized dataset in .csv format](day1/data_science_quiz_results.csv). -->
 
@@ -173,17 +185,21 @@ We will use this session to get to know the range of interests and experience st
 
 ***
 
-#### 2. The Shape of Data
+#### 2. The shape of data
 
 This week introduces the concept of data "beyond the spreadsheet", the rectangular format most common in statistical datasets.  It covers relational structures and the concept of database normalization.  We will also cover ways to restructure data from "wide" to "long" format, within strictly rectangular data structures.  Additional topics concerning text encoding, date formats, and sparse matrix formats are also covered.
 
 ##### Resources
+
+To be added.
+<!---
 
 * [Lecture Notes](https://github.com/lse-me314/lse-me314.github.io/blob/master/lecturenotes/ME314_day2.ipynb)
 * [Lecture Notes as pdf](lecturenotes/ME314_day2.pdf)
 * [Lab 2 materials](https://lse-me314.github.io/assignment02/)
 * Lab 2 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html).
 
+--->
 
 ##### Required reading
 
@@ -197,17 +213,21 @@ This week introduces the concept of data "beyond the spreadsheet", the rectangul
 
 ***
 
-#### 3. Working with Databases
+#### 3. Working with databases
 
 We will return to database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.  We will also cover authentication and how to connect to local and remote databases.   
 
 ##### Resources
+
+To be added.
+<!---
 
 * [Lecture Notes](https://github.com/lse-me314/lse-me314.github.io/blob/master/lecturenotes/ME314_day3.ipynb)
 * [Lecture Notes as pdf](lecturenotes/ME314_day3.pdf)
 * [Lab 3 materials](https://lse-me314.github.io/assignment03/)
 * Lab 3 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html).
 
+--->
 
 ##### Required reading
 
@@ -221,15 +241,20 @@ We will return to database normalization, and how to implement this using good p
 
 ***
 
-#### 4. Linear Regression
+#### 4. Linear regression
 
 Linear regression model and supervised learning.
 
 ##### Resources
 
+To be added.
+<!---
+
 * [Lecture Notes](lecturenotes/ME314_day4.pdf)
 * [Lab 4 materials](https://lse-me314.github.io/assignment04/)
 * Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html).
+
+--->
 
 ##### Required Reading
 
@@ -248,9 +273,14 @@ Logistic regression, discriminant analysis, Naive Bayes, evaluating model perfor
 
 ##### Resources
 
+To be added.
+<!---
+
 * [Lecture Notes](lecturenotes/ME314_day5.pdf)
 * [Midterm/Lab 5 materials](https://lse-me314.github.io/assignment05/).  **This is also the mid-term exam.**]  To submit this, you should upload your single HTML file to the Moodle page by Wednesday 7 August 19:00.
 * Assignment 5/mid-term solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_midterm_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_midterm_solution.html).
+
+--->
 
 ##### Required Reading
 
@@ -270,9 +300,15 @@ GAMs, local regression, decision trees, random forest, boosting.
 
 ##### Resources
 
+To be added.
+<!---
+
 * [Lecture Notes](lecturenotes/ME314_day6.pdf)
 * [Lab 6 materials](https://lse-me314.github.io/assignment06/)
 * Lab 6 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html).
+
+--->
+
 ##### Required Reading
 
 * James et al., Chapter 7-8.
@@ -291,9 +327,14 @@ Cross-validation, bootstrap, ridge and lasso.
 
 ##### Resources
 
+To be added.
+<!---
+
 * [Lecture Notes](lecturenotes/ME314_day7.pdf)
 * [Lab 7 materials](https://lse-me314.github.io/assignment07/)
 * Lab 7 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html).
+
+--->
 
 ##### Required Reading
 
@@ -308,13 +349,18 @@ Cross-validation, bootstrap, ridge and lasso.
 
 #### 8. Unsupervised learning and dimensional reduction
 
-Cluster analysis, PCA, correspondence analysis, association rules.
+Cluster analysis, PCA, factor analysis
 
 ##### Resources
+
+To be added.
+<!---
 
 * [Lecture Notes](lecturenotes/ME314_day8.pdf)
 * [Lab 8 materials](https://lse-me314.github.io/assignment08/)
 * Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html).
+
+--->
 
 ##### Required reading
 
@@ -335,9 +381,14 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 ##### Resources
 
+To be added.
+<!---
+
 * [Lecture Notes](lecturenotes/ME314_day9.pdf)
 * [Lab 09 materials](https://lse-me314.github.io/assignment09/)
 * Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html).
+
+--->
 
 ##### Required reading
 
@@ -360,9 +411,15 @@ Naive Bayes classifier, Wordscores, Wordfish, and correspondence analysis.
 
 ##### Resources
 
+To be added.
+<!---
+
 * [Lecture Notes](lecturenotes/ME314_day10.pdf)
 * [Lab 10 materials](https://lse-me314.github.io/assignment10/)
 * Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html).
+
+--->
+
 
 ##### Required reading
 
@@ -388,11 +445,19 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 ##### Resources
 
+To be added.
+<!---
+
 * [Lecture Notes](lecturenotes/ME314_day11.pdf)
 * [Lab 11 materials](https://lse-me314.github.io/assignment11/)
+
+--->
+
 <!---
 * Lab 11 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html).
 --->
+
+
 
 ##### Required reading
 
@@ -409,16 +474,22 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 ***
 
-#### 12. Data from the Web
+#### 12. Data from the web
 
 The promises and pitfalls of social media data. The Twitter API. The Facebook API. Web scraping. Ethics.
 
 ##### Resources
 
+To be added.
+<!---
+
+
 * [Lecture Notes](lecturenotes/ME314_day12.pdf)
 * [Lab 12 materials](https://lse-me314.github.io/assignment12/)
 * [R script for twitteR lecture example](lecturenotes/misc/twitteR_examples.R)
 * [R script for web scraping lecture example](lecturenotes/misc/game_of_thrones.R)
+
+--->
 
 
 ##### Recommended Reading:
@@ -434,6 +505,7 @@ The promises and pitfalls of social media data. The Twitter API. The Facebook AP
 * https://github.com/pablobarbera/streamR
 * Matthew Russell (2013). _Mining the Social Web_. O'Reilly Media. 2nd edition.
 
+<!---
 ##### To use the `rtweet` package in R:
 * [`rtweet` vignette](https://github.com/mkearney/rtweet)
 * Twitter Authentication setup:
@@ -442,6 +514,8 @@ The promises and pitfalls of social media data. The Twitter API. The Facebook AP
 * Twitter API documentation:
     + [Overview of REST API](https://dev.twitter.com/rest/public)
     + [Overview of streaming API](https://dev.twitter.com/streaming/overview)
+
+--->
 
 ***
 
