@@ -1,23 +1,9 @@
-# Instructions for submitting assignments
+# Instructions for working with assignments
 
-ME314, LSE Methods Summer Programme 2019
+ME314, LSE Methods Summer Programme 2021
 
 
 ## Setting up R and the Rstudio environment
-
-### The easy way: RStudio server
-
-To avoid configuration problems, we have set up an RStudio server environment that contains all that you need to use for this course, on a cloud server.  You can access to the server at [https://rstudio.lse.ac.uk](https://rstudio.lse.ac.uk) using your LSE username and password.  You only need a web browser and an Internet connection to use this.
-
-**If you are having trouble loading the login page** logging into the service and gets a "too many redirects" error then either using another browser or clearing cookies, in chrome with the following information:
-
-![Chrome](image001.png)
-
-This can be fixed by clearing cookies for rstudio.lse.ac.uk and auth.lse.ac.uk.  For instance in Chrome, by clicking the padlock in the location bar:
-
-![Chrome](image002.png)
-
-
 
 ### Using R/RStudio locally
 
@@ -55,8 +41,3 @@ Each lab assignment will be a separate repository from the [lse-me314 site on Gi
 We will walk you through this process in the Day 1 lab, so don't worry if it seems complicated the first time.  This sort of careful workflow process and file management is part of learning practical data science too!
 
 We do not mark the homework but we will walk through the solutions at the start of computer labs the following day.
-
-
-#### After finishing an assignment
-
-Don't forget to log out from the server if you are using RStudio Server. You are sharing computing resource with other students. If we observe find a session inactive for long time, we will terminate the session.
