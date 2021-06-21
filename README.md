@@ -2,8 +2,17 @@
 
 London School of Economics and Political Science
 
-Kenneth Benoit ([K.R.Benoit@lse.ac.uk](K.R.Benoit@lse.ac.uk)), Department of Methodology, LSE  
-Jack Blumenau ([j.blumenau@ucl.ac.uk](j.blumenau@ucl.ac.uk)), Department of Political Science, UCL  
+Instructors
+
+*  Kenneth Benoit ([K.R.Benoit@lse.ac.uk](K.R.Benoit@lse.ac.uk)), Department of Methodology, LSE  
+*  Jack Blumenau ([j.blumenau@ucl.ac.uk](j.blumenau@ucl.ac.uk)), Department of Political Science, UCL  
+
+TAs
+
+*  Pedro Alves ([pedrosequeiraalves@gmail.com](pedrosequeiraalves@gmail.com)), LSE  
+*  Sarah Jewett ([S.Jewett1@lse.ac.uk](S.Jewett1@lse.ac.uk)), LSE  
+*  Markus Kollberhg ([markus.kollberg.18@ucl.ac.uk](markus.kollberg.18@ucl.ac.uk)), UCL  
+*  Julia Leschke ([J.Leschke@lse.ac.uk](J.Leschke@lse.ac.uk)), LSE
 
 This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Machine Learning*](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in June-July 2021 by Kenneth Benoit and Jack Blumenau.  
 
