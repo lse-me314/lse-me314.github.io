@@ -158,8 +158,6 @@ We will use this session to get to know the range of interests and experience st
 
 ##### Resources
 
-To be added.
-
 * [Lecture Notes Part 1](lecturenotes/ME314_day1.1.pdf)
 * [Lecture Notes Part 2](lecturenotes/ME314_day1.2.pdf)
 * [Lab 1 materials](https://lse-me314.github.io/assignment01/)
@@ -191,16 +189,12 @@ This week introduces the concept of data "beyond the spreadsheet", the rectangul
 
 ##### Resources
 
-To be added.
-
-<!---
-
-* [Lecture Notes](https://github.com/lse-me314/lse-me314.github.io/blob/master/lecturenotes/ME314_day2.ipynb)
-* [Lecture Notes as pdf](lecturenotes/ME314_day2.pdf)
+* [Lecture Notes Part 1](lecturenotes/ME314_day2.pdf)
 * [Lab 2 materials](https://lse-me314.github.io/assignment02/)
-* Lab 2 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html).
 
---->
+<!--
+* Lab 2 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html).
+-->
 
 ##### Required reading
 
