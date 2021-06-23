@@ -161,7 +161,6 @@ We will use this session to get to know the range of interests and experience st
 * [Lecture Notes Part 1](lecturenotes/ME314_day1.1.pdf)
 * [Lecture Notes Part 2](lecturenotes/ME314_day1.2.pdf)
 * [Lab 1 materials](https://lse-me314.github.io/assignment01/)
-
 * Lab 1 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment1_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment1_solution.html).
 
 
@@ -191,10 +190,7 @@ This week introduces the concept of data "beyond the spreadsheet", the rectangul
 
 * [Lecture Notes Part 1](lecturenotes/ME314_day2.pdf)
 * [Lab 2 materials](https://lse-me314.github.io/assignment02/)
-
-<!--
 * Lab 2 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html).
--->
 
 ##### Required reading
 
@@ -239,14 +235,10 @@ Linear regression model and supervised learning.
 
 ##### Resources
 
-To be added.
-
-<!---
-
 * [Lecture Notes](lecturenotes/ME314_day4.pdf)
 * [Lab 4 materials](https://lse-me314.github.io/assignment04/)
-* Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html).
 
+<!--* Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html).
 --->
 
 ##### Required Reading
@@ -266,10 +258,7 @@ Logistic regression, discriminant analysis, Naive Bayes, evaluating model perfor
 
 ##### Resources
 
-To be added.
-
 <!---
-
 * [Lecture Notes](lecturenotes/ME314_day5.pdf)
 * [Midterm/Lab 5 materials](https://lse-me314.github.io/assignment05/).  **This is also the mid-term exam.**]  To submit this, you should upload your single HTML file to the Moodle page by Wednesday 7 August 19:00.
 * Assignment 5/mid-term solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_midterm_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_midterm_solution.html).
