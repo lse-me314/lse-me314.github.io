@@ -215,7 +215,6 @@ We will introduce the concept of database normalization, and how to implement th
 ##### Resources
 
 * [Lecture Notes as pdf](lecturenotes/ME314_day3.pdf)
-
 * [Lab 3 materials](https://lse-me314.github.io/assignment03/)
 
 <!--
