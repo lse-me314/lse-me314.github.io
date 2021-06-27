@@ -212,10 +212,7 @@ We will introduce the concept of database normalization, and how to implement th
 
 * [Lecture Notes as pdf](lecturenotes/ME314_day3.pdf)
 * [Lab 3 materials](https://lse-me314.github.io/assignment03/)
-
-<!--
 * Lab 3 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html).
--->
 
 ##### Required reading
 
@@ -237,9 +234,7 @@ Linear regression model and supervised learning.
 
 * [Lecture Notes](lecturenotes/ME314_day4.pdf)
 * [Lab 4 materials](https://lse-me314.github.io/assignment04/)
-
-<!--* Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html).
---->
+* Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html).
 
 ##### Required Reading
 
