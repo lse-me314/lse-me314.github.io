@@ -253,12 +253,9 @@ Logistic regression, discriminant analysis, Naive Bayes, evaluating model perfor
 
 ##### Resources
 
-<!---
 * [Lecture Notes](lecturenotes/ME314_day5.pdf)
-* [Midterm/Lab 5 materials](https://lse-me314.github.io/assignment05/).  **This is also the mid-term exam.**]  To submit this, you should upload your single HTML file to the Moodle page by Wednesday 7 August 19:00.
-* Assignment 5/mid-term solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_midterm_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_midterm_solution.html).
 
---->
+The **mid-term exam** will be posted on [Moodle](https://shortcourses.lse.ac.uk/course/view.php?id=158).
 
 ##### Required Reading
 
