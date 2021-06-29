@@ -300,7 +300,9 @@ Cross-validation, bootstrap, ridge and lasso.
 
 ##### Resources
 
-To be added.
+* [Lecture Notes as pdf](lecturenotes/ME314_day7.pdf)
+* [Lab 7 materials](https://lse-me314.github.io/assignment07/)
+* Lab 7 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html).
 
 <!---
 
