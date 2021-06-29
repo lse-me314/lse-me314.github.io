@@ -257,6 +257,8 @@ Logistic regression, discriminant analysis, Naive Bayes, evaluating model perfor
 
 The **mid-term exam** will be posted on [Moodle](https://shortcourses.lse.ac.uk/course/view.php?id=158).
 
+Solutions to the midterm will also be posted on Moodle.
+
 ##### Required Reading
 
 * James et al., Chapter 4.
@@ -275,15 +277,10 @@ GAMs, local regression, decision trees, random forest, boosting.
 
 ##### Resources
 
-To be added.
-
-<!---
-
 * [Lecture Notes](lecturenotes/ME314_day6.pdf)
 * [Lab 6 materials](https://lse-me314.github.io/assignment06/)
 * Lab 6 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html).
 
---->
 
 ##### Required Reading
 
