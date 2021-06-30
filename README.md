@@ -325,19 +325,13 @@ Cross-validation, bootstrap, ridge and lasso.
 
 #### 8. Unsupervised learning and dimensional reduction
 
-Cluster analysis, PCA, factor analysis
+Cluster analysis, PCA
 
 ##### Resources
 
-To be added.
-
-<!---
-
-* [Lecture Notes](lecturenotes/ME314_day8.pdf)
+* [Lecture Notes as pdf](lecturenotes/ME314_day8.pdf)
 * [Lab 8 materials](https://lse-me314.github.io/assignment08/)
 * Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html).
-
---->
 
 ##### Required reading
 
