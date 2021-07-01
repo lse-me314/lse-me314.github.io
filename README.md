@@ -352,15 +352,9 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 ##### Resources
 
-To be added.
-
-<!---
-
-* [Lecture Notes](lecturenotes/ME314_day9.pdf)
-* [Lab 09 materials](https://lse-me314.github.io/assignment09/)
+* [Lecture Notes as pdf](lecturenotes/ME314_day9.pdf)
+* [Lab 9 materials](https://lse-me314.github.io/assignment09/)
 * Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html).
-
---->
 
 ##### Required reading
 
