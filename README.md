@@ -373,19 +373,13 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 #### 10. Text classification and scaling
 
-Naive Bayes classifier, Wordscores, Wordfish, and correspondence analysis.
+Naive Bayes classifier, Wordscores, and Wordfish.
 
 ##### Resources
 
-To be added.
-
-<!---
-
-* [Lecture Notes](lecturenotes/ME314_day10.pdf)
+* [Lecture Notes as pdf](lecturenotes/ME314_day10.pdf)
 * [Lab 10 materials](https://lse-me314.github.io/assignment10/)
 * Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html).
-
---->
 
 
 ##### Required reading
