@@ -432,17 +432,9 @@ The promises and pitfalls of social media data. The Twitter API. The Facebook AP
 
 ##### Resources
 
-To be added.
-
-<!---
-
-
-* [Lecture Notes](lecturenotes/ME314_day12.pdf)
+* [Lecture Notes as pdf](lecturenotes/ME314_day12.pdf)
 * [Lab 12 materials](https://lse-me314.github.io/assignment12/)
-* [R script for twitteR lecture example](lecturenotes/misc/twitteR_examples.R)
-* [R script for web scraping lecture example](lecturenotes/misc/game_of_thrones.R)
-
---->
+* Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html).
 
 
 ##### Recommended Reading:
