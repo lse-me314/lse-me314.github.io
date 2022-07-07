@@ -230,7 +230,9 @@ Linear regression model and supervised learning.
 
 * [Lecture Notes](lecturenotes/ME314_day4.pdf)
 * [Lab 4 materials](https://lse-me314.github.io/assignment04/)
-* Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html).
+
+
+<!---- * Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html). ---->
 
 ##### Required Reading
 
@@ -275,7 +277,9 @@ GAMs, local regression, decision trees, random forest, boosting.
 
 * [Lecture Notes](lecturenotes/ME314_day6.pdf)
 * [Lab 6 materials](https://lse-me314.github.io/assignment06/)
-* Lab 6 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html).
+
+
+<!---- * Lab 6 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html). ---->
 
 
 ##### Required Reading
@@ -296,9 +300,11 @@ Cross-validation, bootstrap, ridge and lasso.
 
 ##### Resources
 
-* [Lecture Notes as pdf](lecturenotes/ME314_day7.pdf)
+* [Lecture Notes](lecturenotes/ME314_day7.pdf)
 * [Lab 7 materials](https://lse-me314.github.io/assignment07/)
-* Lab 7 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html).
+
+
+<!---- * Lab 7 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html).---->
 
 <!---
 
@@ -325,13 +331,15 @@ Cluster analysis, PCA
 
 ##### Resources
 
-* [Lecture Notes as pdf](lecturenotes/ME314_day8.pdf)
+* [Lecture Notes](lecturenotes/ME314_day8.pdf)
 * [Lab 8 materials](https://lse-me314.github.io/assignment08/)
-* Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html).
+
+
+<!---- * Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html). ---->
 
 ##### Required reading
 
-* James et al., Chapter 10.
+* James et al., Chapter 12.
 
 ##### Recommended Reading
 
@@ -348,9 +356,10 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 ##### Resources
 
-* [Lecture Notes as pdf](lecturenotes/ME314_day9.pdf)
+* [Lecture Notes](lecturenotes/ME314_day9.pdf)
 * [Lab 9 materials](https://lse-me314.github.io/assignment09/)
-* Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html).
+
+<!---- * Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html). ---->
 
 ##### Required reading
 
@@ -373,9 +382,11 @@ Naive Bayes classifier, Wordscores, and Wordfish.
 
 ##### Resources
 
-* [Lecture Notes as pdf](lecturenotes/ME314_day10.pdf)
+* [Lecture Notes](lecturenotes/ME314_day10.pdf)
 * [Lab 10 materials](https://lse-me314.github.io/assignment10/)
-* Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html).
+
+
+<!--- * Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html). --->
 
 
 ##### Required reading
@@ -402,9 +413,11 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 ##### Resources
 
-* [Lecture Notes as pdf](lecturenotes/ME314_day11.pdf)
+* [Lecture Notes](lecturenotes/ME314_day11.pdf)
 * [Lab 11 materials](https://lse-me314.github.io/assignment11/)
-* Lab 11 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html).
+
+
+<!---- * Lab 11 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html). ---->
 
 
 ##### Required reading
@@ -428,9 +441,11 @@ The promises and pitfalls of social media data. The Twitter API. The Facebook AP
 
 ##### Resources
 
-* [Lecture Notes as pdf](lecturenotes/ME314_day12.pdf)
+* [Lecture Notes](lecturenotes/ME314_day12.pdf)
 * [Lab 12 materials](https://lse-me314.github.io/assignment12/)
-* Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html).
+
+
+<!---- * Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html). ---->
 
 
 ##### Recommended Reading:
