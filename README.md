@@ -145,6 +145,10 @@ The final exam will be set on Friday 29th July.
 
 <!---[The exam is here](https://lse-me314.github.io/finalexam/).---> 
 
+#### Slack
+
+We have a Slack workspace for the course which you should use to communicate both with us as instructors, and with your fellow students. You can sign up via this link: https://tinyurl.com/2022ME314
+
 ### Detailed Course Schedule
 
 ***
