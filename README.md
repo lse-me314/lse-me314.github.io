@@ -12,6 +12,12 @@ TAs
 *  Sarah Jewett ([S.Jewett1@lse.ac.uk](S.Jewett1@lse.ac.uk)), LSE  
 *  Yuanmo He ([y.he54@lse.ac.uk](y.he54@lse.ac.uk)), LSE  
 
+Moodle
+
+* Moodle page [here](https://shortcourses.lse.ac.uk/course/view.php?id=158)
+* Moodle enrollment key: ME31422
+
+
 This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Machine Learning*](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME314) taught in July 2022 by Kenneth Benoit and Jack Blumenau.  
 
 ### Quick links to topics
@@ -138,6 +144,10 @@ The class assignment for Day 5 will count as the mid-term assignment, which will
 The final exam will be set on Friday 29th July.  
 
 <!---[The exam is here](https://lse-me314.github.io/finalexam/).---> 
+
+#### Slack
+
+We have a Slack workspace for the course which you should use to communicate both with us as instructors, and with your fellow students. You can sign up via this link: https://tinyurl.com/2022ME314
 
 ### Detailed Course Schedule
 
