@@ -26,7 +26,7 @@ This repository contains the class materials for the [Research Methods, Data Sci
 |:---:|:----------|:-----------|:------|
 | 1  | Mo 11 Jul  | KB         | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
 | 2  | Tu 12 Jul  | KB         | [The Shape of Data](#2-the-shape-of-data) |
-| 3  | We 13 Jul  | KB         | [Working with Databases](#3-working-with-databases) |
+| 3  | We 13 Jul  | KB         | [Working with Data (continued)](#3-working-with-databases) |
 | 4  | Th 14 Jul  | KB         | [Linear Regression](#4-linear-regression) |
 | 5  | Mo 18 Jul  | JB         | [Classification](#5-classification) |
 | 6  | Tu 19 Jul  | JB         | [Non-linear models and tree-based methods](#6-non-linear-models-and-tree-based-methods) |
