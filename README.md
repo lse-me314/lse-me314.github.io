@@ -208,9 +208,9 @@ This week introduces the concept of data "beyond the spreadsheet", the rectangul
 
 ***
 
-#### 3. Working with databases
+#### 3. Working with data (continued)
 
-We will introduce the concept of database normalization, and how to implement this using good practice in a relational database manager, SQLite.  We will cover how to structure data, verify data types, set conditions for data integrity, and perform complex queries to extract data from the database.  We will also cover authentication and how to connect to local and remote databases.   
+This day will continue with data manipulation and reshaping.  We will cover alternative data formats including JSON, and how to make use of it.  We will introduce the concept of databases and SQL, although we will not cover this using SQL directly.  Depending on time, we will move on to Day 4 material in preparation for next week and the mid-term released on Day 5.
 
 ##### Resources
 
@@ -222,11 +222,12 @@ We will introduce the concept of database normalization, and how to implement th
 
 ##### Required reading
 
-*	Lake, Peter.  _Concise Guide to Databases: A Practical Introduction_. Springer, 2013.  Chapters 4-5, Relational Databases and NoSQL databases.
-*	Nield, Thomas. _Getting Started with SQL: A hands-on approach for beginners_. O’Reilly, 2016.  Entire text.
+Continue with the Day 2 reading from Wickhama and Grolemund (2017).
 
 ##### Recommended Reading
 
+* Lake, Peter.  _Concise Guide to Databases: A Practical Introduction_. Springer, 2013.  Chapters 4-5, Relational Databases and NoSQL databases.
+* Nield, Thomas. _Getting Started with SQL: A hands-on approach for beginners_. O’Reilly, 2016.  Entire text.
 * [SQLite documentation](https://www.sqlite.org/docs.html).
 *   Bassett, L. 2015.  [_Introduction to JavaScript Object Notation: A to-the-point Guide to JSON_](http://shop.oreilly.com/product/0636920041597.do).  O'Reilly Media, Inc.
 
