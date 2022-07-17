@@ -258,7 +258,7 @@ Linear regression model and supervised learning.
 
 #### 5. Classification
 
-Logistic regression, discriminant analysis, Naive Bayes, evaluating model performance.
+Logistic regression, Naive Bayes, evaluating model performance.
 
 ##### Resources
 
@@ -266,7 +266,6 @@ Logistic regression, discriminant analysis, Naive Bayes, evaluating model perfor
 
 The **mid-term exam** will be posted on [Moodle](https://shortcourses.lse.ac.uk/course/view.php?id=158).
 
-Solutions to the midterm will also be posted on Moodle.
 
 ##### Required Reading
 
@@ -282,7 +281,7 @@ Solutions to the midterm will also be posted on Moodle.
 
 #### 6. Non-linear models and tree-based methods
 
-GAMs, local regression, decision trees, random forest, boosting.
+GAMs, local regression, decision trees, random forest, bagging.
 
 ##### Resources
 
