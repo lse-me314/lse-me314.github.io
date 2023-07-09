@@ -9,8 +9,9 @@ Instructors
 
 TAs
 
-*  Wendy Wang ([w.wang75@lse.ac.uk](w.wang75@lse.ac.uk)), LSE  
+*  Stuart Bramwell ([S.Bramwell@lse.ac.uk](S.Bramwell@lse.ac.uk)), LSE/Royal Holloway
 *  Michael Jacobs ([michael.jacobs.21@ucl.ac.uk](michael.jacobs.21@ucl.ac.uk)), UCL  
+*  Wendy Wang ([w.wang75@lse.ac.uk](w.wang75@lse.ac.uk)), LSE  
 
 Moodle
 
