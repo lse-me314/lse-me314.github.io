@@ -191,10 +191,11 @@ This week introduces the concept of data "beyond the spreadsheet", the rectangul
 
 ##### Resources
 
-* [Lecture Notes](lecturenotes/ME314_day2.pdf)
+* [Lecture Notes Part 1](lecturenotes/ME314_day2.pdf)
 * [Lab 2 materials](https://lse-me314.github.io/assignment02/)
 
-<!---- * Lab 2 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html). ---->
+
+* Lab 2 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html).
 
 ##### Required reading
 
@@ -214,10 +215,9 @@ This day will continue with data manipulation and reshaping.  We will cover alte
 
 ##### Resources
 
-<!----  
 * [Lecture Notes](lecturenotes/ME314_day3.pdf)
 * [Lab 3 materials](https://lse-me314.github.io/assignment03/)
----->
+
 
 <!--- * Lab 3 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html). ---->
 
@@ -240,10 +240,9 @@ Linear regression model and supervised learning.
 
 ##### Resources
 
-<!----  
 * [Lecture Notes](lecturenotes/ME314_day4.pdf)
 * [Lab 4 materials](https://lse-me314.github.io/assignment04/)
----->
+
 
 <!---- * Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html). ---->
 
