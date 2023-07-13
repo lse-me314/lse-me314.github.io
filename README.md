@@ -196,6 +196,8 @@ This week introduces the concept of data "beyond the spreadsheet", the rectangul
 
 
 * Lab 2 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html).
+* [Reshaping data coding demo](other_resources/Reshaping-data-coding-demo.html)
+
 
 ##### Required reading
 
@@ -220,6 +222,7 @@ This day will continue with data manipulation and reshaping.  We will cover alte
 
 
 * Lab 3 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html).
+* [Database Normalisation Notes](other_resources/database_normalisation_notes.pdf)
 
 ##### Required reading
 
