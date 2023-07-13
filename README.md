@@ -219,7 +219,7 @@ This day will continue with data manipulation and reshaping.  We will cover alte
 * [Lab 3 materials](https://lse-me314.github.io/assignment03/)
 
 
-<!--- * Lab 3 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html). ---->
+* Lab 3 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html).
 
 ##### Required reading
 
