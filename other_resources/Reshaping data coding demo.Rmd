@@ -1,0 +1,177 @@
+---
+title: "Reshaping data: coding demo"
+author: "Michael Jacobs"
+date: '2023-07-11'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(kableExtra)
+library(tidyverse)
+```
+
+## Example dataset
+
+```{r, echo=FALSE}
+
+data1 <- tribble(
+  ~id, ~name, ~phone, ~sex_and_age, ~test_number, ~term_1, ~term_2, ~term_3,
+  "1","Mike","134","m_12","test 1",76,84,87,
+  "2","Linda","270","f_13","test 1",88,90,73,
+  "3","Sam","210","m_11","test 1",78,74,80,
+  "4","Esther","617","f_12","test 1",68,75,74,
+  "5","Mary","114","f_14","test 1",65,67,64,
+  "1","Mike","134","m_12","test 2",85,80,90,
+  "2","Linda","270","f_13","test 2",87,82,94,
+  "3","Sam","210","m_11","test 2",80,87,80,
+  "4","Esther","617","f_12","test 2",70,75,78,
+  "5","Mary","114","f_14","test 2",68,70,63
+)
+
+kbl(data1, format = 'html') %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"))
+
+```
+
+
+## Installing / loading tidyverse
+
+```{r}
+
+# install.packages("tidyverse")
+library(tidyverse)
+
+# OR
+
+# install.packages("dplyr")
+library(dplyr)
+
+# install.packages("tidyr")
+library(tidyr)
+
+```
+
+## Filter and select
+
+```{r}
+
+# Use filter to subset to specific rows
+
+filter(data1, test_number == 'test 1')
+
+# Use select to subset to specific columns
+
+select(data1, name, phone)
+
+select(data1, starts_with('term'))
+
+```
+
+## Pipe
+
+```{r}
+
+# These three are equivalent
+
+filter(data1, test_number == 'test 1')
+
+data1 %>% filter(test_number == 'test 1')
+
+data1 %>% filter(., test_number == 'test 1')
+
+# We can do multiple operations at once with the pipe operator
+
+data1 %>%
+  filter(test_number == 'test 1') %>%
+  select(name, starts_with('term'))
+
+# Equivalent to doing in two stages
+
+data_tmp <- data1 %>% filter(test_number == 'test 1')
+
+data_tmp %>% select(name, starts_with('term'))
+
+```
+
+## Reshaping data (longer)
+
+```{r}
+
+# Lets restructure the data so that there is a single column with all the results
+# And the rows represent a person in a given term for a given test
+
+data_long <- data1 %>%
+  pivot_longer(starts_with('term'), values_to = 'Results', names_to = 'Term')
+
+data_long
+
+```
+
+## Reshaping data (wider)
+
+```{r}
+
+# Lets restructure the data so that there is a separate column for results of test 1 and 2
+# And the rows represent a person
+
+data_wider <- data1 %>%
+  pivot_wider(values_from = starts_with('term'), names_from = 'test_number')
+
+data_wider
+
+```
+
+## Merging / joining
+
+```{r}
+
+# New dataset
+
+data2 <- tribble(
+  ~id, ~name, ~country,
+  "1","Mike","UK",
+  "2","Linda","USA",
+  "3","Sam","Canada",
+  "4","Esther","USA",
+  "5","Mary","Ireland",
+)
+
+kbl(data2, format = 'html') %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"))
+
+```
+
+```{r}
+
+# Add this data to the main data, to create a country column
+
+## Using merge
+
+combined_data <- merge(data1, data2, by = c("id", "name"))
+
+## Using left_join
+
+combined_data <- data1 %>%
+  left_join(data2, by = c("id", "name"))
+
+combined_data
+
+```
+
+## Split out sex and age
+
+```{r}
+
+sex_age <- str_split_fixed(data1$sex_and_age, pattern = "_", n = 2) %>%
+  data.frame()
+
+colnames(sex_age) <- c("Sex", "Age")
+
+data3 <- data.frame(data1, sex_age) %>%
+  select(-sex_and_age)
+
+data3
+
+```
+
