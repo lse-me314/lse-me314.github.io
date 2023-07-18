@@ -344,8 +344,9 @@ Cluster analysis, PCA
 
 ##### Resources
 
-<!----  
 * [Lecture Notes](lecturenotes/ME314_day8.pdf)
+
+<!---
 * [Lab 8 materials](https://lse-me314.github.io/assignment08/)
 ---->
 
