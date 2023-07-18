@@ -247,7 +247,7 @@ Linear regression model and supervised learning.
 * [Lab 4 materials](https://lse-me314.github.io/assignment04/)
 
 
-<!---- * Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html). ---->
+* Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html).
 
 ##### Required Reading
 
@@ -266,12 +266,11 @@ Logistic regression, Naive Bayes, evaluating model performance.
 
 ##### Resources
 
-<!----  
 * [Lecture Notes](lecturenotes/ME314_day5.pdf)
-* [Lab 5 materials](https://lse-me314.github.io/assignment05/)
+
+* [Lab 5 materials (Midterm)](https://lse-me314.github.io/assignment05/)
 
 The **mid-term exam** will be posted on [Moodle](https://shortcourses.lse.ac.uk/course/view.php?id=158).
------>
 
 ##### Required Reading
 
@@ -291,10 +290,8 @@ GAMs, local regression, decision trees, random forest, bagging.
 
 ##### Resources
 
-<!----  
 * [Lecture Notes](lecturenotes/ME314_day6.pdf)
 * [Lab 6 materials](https://lse-me314.github.io/assignment06/)
----->
 
 <!---- * Lab 6 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html). ---->
 
