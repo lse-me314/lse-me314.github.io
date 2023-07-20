@@ -316,7 +316,7 @@ Cross-validation, bootstrap, ridge and lasso.
 * [Lecture Notes](lecturenotes/ME314_day7.pdf)
 * [Lab 7 materials](https://lse-me314.github.io/assignment07/)
 
-<!---- * Lab 7 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html).---->
+* Lab 7 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html).
 
 <!---
 
@@ -344,10 +344,8 @@ Cluster analysis, PCA
 ##### Resources
 
 * [Lecture Notes](lecturenotes/ME314_day8.pdf)
-
-<!---
 * [Lab 8 materials](https://lse-me314.github.io/assignment08/)
----->
+
 
 <!---- * Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html). ---->
 
