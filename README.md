@@ -347,7 +347,7 @@ Cluster analysis, PCA
 * [Lab 8 materials](https://lse-me314.github.io/assignment08/)
 
 
-<!---- * Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html). ---->
+* Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html).
 
 ##### Required reading
 
@@ -368,10 +368,8 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 ##### Resources
 
-<!----  
 * [Lecture Notes](lecturenotes/ME314_day9.pdf)
 * [Lab 9 materials](https://lse-me314.github.io/assignment09/)
------>
 
 <!---- * Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html). ---->
 
