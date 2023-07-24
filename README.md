@@ -371,7 +371,7 @@ Working with text in R, sentiment analysis, dictionary methods.
 * [Lecture Notes](lecturenotes/ME314_day9.pdf)
 * [Lab 9 materials](https://lse-me314.github.io/assignment09/)
 
-<!---- * Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html). ---->
+* Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html).
 
 ##### Required reading
 
@@ -394,10 +394,9 @@ Naive Bayes classifier, Wordscores, and Wordfish.
 
 ##### Resources
 
-<!----  
+
 * [Lecture Notes](lecturenotes/ME314_day10.pdf)
 * [Lab 10 materials](https://lse-me314.github.io/assignment10/)
----->
 
 <!--- * Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html). --->
 
