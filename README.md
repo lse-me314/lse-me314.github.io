@@ -398,7 +398,7 @@ Naive Bayes classifier, Wordscores, and Wordfish.
 * [Lecture Notes](lecturenotes/ME314_day10.pdf)
 * [Lab 10 materials](https://lse-me314.github.io/assignment10/)
 
-<!--- * Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html). --->
+* Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html).
 
 
 ##### Required reading
@@ -425,10 +425,9 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 ##### Resources
 
-<!----  
 * [Lecture Notes](lecturenotes/ME314_day11.pdf)
 * [Lab 11 materials](https://lse-me314.github.io/assignment11/)
----->
+
 
 <!---- * Lab 11 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html). ---->
 
