@@ -459,7 +459,7 @@ APIs. Web scraping. Ethics.
 
 <!---- * Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html). ---->
 
-
+<!---
 ##### Recommended Reading:
 
 * Broniatowski, David A, Michael J Paul, and Mark Dredze. 2013. "National and Local Influenza Surveillance Through Twitter: an Analysis of the 2012-2013 Influenza Epidemic" _PLoS ONE_ 8(12): 83672–78. [PDF here](day11/Broniatowski.pdf)
@@ -472,6 +472,8 @@ APIs. Web scraping. Ethics.
 * http://rcrastinate.blogspot.co.uk/2015/02/mapping-world-with-tweets-including-gif.html
 * https://github.com/pablobarbera/streamR
 * Matthew Russell (2013). _Mining the Social Web_. O'Reilly Media. 2nd edition.
+
+--->
 
 <!---
 ##### To use the `rtweet` package in R:
