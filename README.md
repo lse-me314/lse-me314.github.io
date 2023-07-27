@@ -449,14 +449,13 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 
 #### 12. Data from the web
 
-The promises and pitfalls of social media data. The Twitter API. The Facebook API. Web scraping. Ethics.
+APIs. Web scraping. Ethics. 
 
 ##### Resources
 
-<!----  
-* [Lecture Notes](lecturenotes/ME314_day12.pdf)
+
+* [Lecture Notes](lecturenotes/lecture_12.html)
 * [Lab 12 materials](https://lse-me314.github.io/assignment12/)
------>
 
 <!---- * Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html). ---->
 
