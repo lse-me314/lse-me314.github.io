@@ -453,8 +453,7 @@ APIs. Web scraping. Ethics.
 
 ##### Resources
 
-
-* [Lecture Notes](lecturenotes/lecture_12.html)
+* <a href = 'lecturenotes/lecture_12.html'>Lecture Notes</a>
 * [Lab 12 materials](https://lse-me314.github.io/assignment12/)
 
 <!---- * Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html). ---->
