@@ -1,4 +1,4 @@
-#### LSE Methods Summer Programme 2023
+#### LSE Methods Summer Programme 2024
 
 London School of Economics and Political Science
 
@@ -10,33 +10,33 @@ Instructors
 TAs
 
 *  Stuart Bramwell ([S.Bramwell@lse.ac.uk](S.Bramwell@lse.ac.uk)), LSE/Royal Holloway
-*  Michael Jacobs ([michael.jacobs.21@ucl.ac.uk](michael.jacobs.21@ucl.ac.uk)), UCL  
+*  Sara Luxmoore ([S.M.Luxmoore@lse.ac.uk](S.M.Luxmoore@lse.ac.uk)), LSE  
 *  Wendy Wang ([w.wang75@lse.ac.uk](w.wang75@lse.ac.uk)), LSE  
 
 Moodle
 
-* Moodle page [here](https://shortcourses.lse.ac.uk/course/view.php?id=158)
-* Moodle enrollment key: ME31423
+* Moodle page [here](https://shortcourses.lse.ac.uk/course/info.php?id=158)
+* Moodle enrollment key: TBC
 
 
-This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Machine Learning*](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me314) taught in July 2023 by Kenneth Benoit and Jack Blumenau.  
+This repository contains the class materials for the [Research Methods, Data Science, and Mathematics](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics) course [*ME314 Introduction to Data Science and Machine Learning*](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me314) taught in July 2024 by Kenneth Benoit and Jack Blumenau.  
 
 ### Quick links to topics
 
 | Day | Date      | Instructor | Topic |
 |:---:|:----------|:-----------|:------|
-| 1  | Mo 10 Jul  | KB         | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
-| 2  | Tu 11 Jul  | KB         | [The Shape of Data](#2-the-shape-of-data) |
-| 3  | We 12 Jul  | KB         | [Working with Data (continued)](#3-working-with-databases) |
-| 4  | Th 13 Jul  | KB         | [Linear Regression](#4-linear-regression) |
-| 5  | Mo 17 Jul  | KB         | [Classification](#5-classification) |
-| 6  | Tu 18 Jul  | KB         | [Non-linear models and tree-based methods](#6-non-linear-models-and-tree-based-methods) |
-| 7  | We 19 Jul  | JB         | [Resampling methods, model selection and regularization](#7-resampling-methods-model-selection-and-regularization) |
-| 8  | Th 20 Jul   | JB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
-| 9  | Mo 24 Jul   | JB         | [Text analysis](#9-text-analysis) |
-| 10 | Tu 25 Jul   | JB         | [Text classification and scaling](#10-text-classification-and-scaling) |
-| 11 | We 26 Jul   | JB         | [Topic modelling](#11-topic-modelling)|
-| 12 | Th 27 Jul   | JB         | [Data from the Web](#12-data-from-the-web) |
+| 1  | Mo 08 Jul  | KB         | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
+| 2  | Tu 09 Jul  | KB         | [The Shape of Data](#2-the-shape-of-data) |
+| 3  | Th 11 Jul  | KB         | [Working with Data (continued)](#3-working-with-databases) |
+| 4  | Fr 12 Jul  | KB         | [Linear Regression](#4-linear-regression) |
+| 5  | Mo 15 Jul  | JB         | [Classification](#5-classification) |
+| 6  | Tu 16 Jul  | JB         | [Non-linear models and tree-based methods](#6-non-linear-models-and-tree-based-methods) |
+| 7  | We 17 Jul  | JB         | [Resampling methods, model selection and regularization](#7-resampling-methods-model-selection-and-regularization) |
+| 8  | Th 18 Jul   | JB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
+| 9  | Mo 22 Jul   | JB         | [Text analysis](#9-text-analysis) |
+| 10 | Tu 23 Jul   | JB         | [Text classification and scaling](#10-text-classification-and-scaling) |
+| 11 | We 24 Jul   | JB         | [Topic modelling](#11-topic-modelling)|
+| 12 | Th 25 Jul   | JB         | [Data from the Web](#12-data-from-the-web) |
 | 13 | Fr 28 Jul   |            | [Final Exam](#assessment) |
 
 
@@ -138,17 +138,15 @@ See [https://lse-me314.github.io/instructions](https://lse-me314.github.io/instr
 
 #### Mid-term
 
-The class assignment for Day 5 will count as the mid-term assignment, which will count for 25% of the grade. The midterm will be released after the lecture on Day 5 (Monday 17th July) and will be due at 7pm on Day 7 (Wednesday 19th July). <!--- The [mid-term is available here](https://lse-me314.github.io/midterm-2019/).--->
+The class assignment for Day 5 will count as the mid-term assignment, which will count for 25% of the grade. The midterm will be released after the lecture on Day 5 (Monday 15th July) and will be due at 7pm on Day 7 (Wednesday 17th July).
 
 #### Exam
 
-The final exam will be set on Friday 28th July.  
-
-<!---[The exam is here](https://lse-me314.github.io/finalexam/).---> 
+The final exam will be set on Friday 26th July.  
 
 #### Slack
 
-We have a Slack workspace for the course which you should use to communicate both with us as instructors, and with your fellow students. You can sign up via this link: https://tinyurl.com/2023ME314
+We have a Slack workspace for the course which you should use to communicate both with us as instructors, and with your fellow students. You can sign up via this link: TBC.
 
 ### Detailed Course Schedule
 
@@ -164,7 +162,7 @@ We will use this session to get to know the range of interests and experience st
 * [Lecture Notes Part 2](lecturenotes/ME314_day1.2.pdf)
 * [Lab 1 materials](https://lse-me314.github.io/assignment01/)
 
-* Lab 1 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment1_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment1_solution.html)
+* Lab 1 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment1_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment1_solution.html) -->
 
 
 ##### Required reading
@@ -195,7 +193,7 @@ This week introduces the concept of data "beyond the spreadsheet", the rectangul
 * [Lab 2 materials](https://lse-me314.github.io/assignment02/)
 
 
-* Lab 2 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html).
+* Lab 2 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html). -->
 * [Reshaping data coding demo](other_resources/Reshaping-data-coding-demo.html)
 
 
@@ -221,7 +219,7 @@ This day will continue with data manipulation and reshaping.  We will cover alte
 * [Lab 3 materials](https://lse-me314.github.io/assignment03/)
 
 
-* Lab 3 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html).
+* Lab 3 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html). -->
 * [Database Normalisation Notes](other_resources/database_normalisation_notes.pdf)
 
 ##### Required reading
@@ -233,7 +231,7 @@ Continue with the Day 2 reading from Wickhama and Grolemund (2017).
 * Lake, Peter.  _Concise Guide to Databases: A Practical Introduction_. Springer, 2013.  Chapters 4-5, Relational Databases and NoSQL databases.
 * Nield, Thomas. _Getting Started with SQL: A hands-on approach for beginners_. O’Reilly, 2016.  Entire text.
 * [SQLite documentation](https://www.sqlite.org/docs.html).
-*   Bassett, L. 2015.  [_Introduction to JavaScript Object Notation: A to-the-point Guide to JSON_](http://shop.oreilly.com/product/0636920041597.do).  O'Reilly Media, Inc.
+* Bassett, L. 2015.  [_Introduction to JavaScript Object Notation: A to-the-point Guide to JSON_](http://shop.oreilly.com/product/0636920041597.do).  O'Reilly Media, Inc.
 
 ***
 
@@ -247,7 +245,7 @@ Linear regression model and supervised learning.
 * [Lab 4 materials](https://lse-me314.github.io/assignment04/)
 
 
-* Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html).
+* Lab 4 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html). -->
 
 ##### Required Reading
 
@@ -292,7 +290,7 @@ GAMs, local regression, decision trees, random forest, bagging.
 
 * [Lecture Notes](lecturenotes/ME314_day6.pdf)
 * [Lab 6 materials](https://lse-me314.github.io/assignment06/)
-* Lab 6 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html).
+* Lab 6 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html). -->
 
 
 ##### Required Reading
@@ -316,7 +314,7 @@ Cross-validation, bootstrap, ridge and lasso.
 * [Lecture Notes](lecturenotes/ME314_day7.pdf)
 * [Lab 7 materials](https://lse-me314.github.io/assignment07/)
 
-* Lab 7 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html).
+* Lab 7 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html). -->
 
 <!---
 
@@ -347,7 +345,7 @@ Cluster analysis, PCA
 * [Lab 8 materials](https://lse-me314.github.io/assignment08/)
 
 
-* Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html).
+* Lab 8 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html). -->
 
 ##### Required reading
 
@@ -371,7 +369,7 @@ Working with text in R, sentiment analysis, dictionary methods.
 * [Lecture Notes](lecturenotes/ME314_day9.pdf)
 * [Lab 9 materials](https://lse-me314.github.io/assignment09/)
 
-* Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html).
+* Lab 9 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html). -->
 
 ##### Required reading
 
@@ -398,7 +396,7 @@ Naive Bayes classifier, Wordscores, and Wordfish.
 * [Lecture Notes](lecturenotes/ME314_day10.pdf)
 * [Lab 10 materials](https://lse-me314.github.io/assignment10/)
 
-* Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html).
+* Lab 10 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html). -->
 
 
 ##### Required reading
@@ -429,7 +427,7 @@ Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
 * [Lab 11 materials](https://lse-me314.github.io/assignment11/)
 
 
-* Lab 11 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html).
+* Lab 11 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html). -->
 
 
 ##### Required reading
