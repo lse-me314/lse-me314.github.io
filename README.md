@@ -27,12 +27,12 @@ This repository contains the class materials for the [Research Methods, Data Sci
 |:---:|:----------|:-----------|:------|
 | 1  | Mo 08 Jul  | KB         | [Overview and introduction to data science](#1-overview-and-introduction-to-data-science) |
 | 2  | Tu 09 Jul  | KB         | [The Shape of Data](#2-the-shape-of-data) |
-| 3  | Th 11 Jul  | KB         | [Working with Data (continued)](#3-working-with-databases) |
+| 3  | Th 11 Jul  | KB         | [Working with Data](#3-working-with-databases) |
 | 4  | Fr 12 Jul  | KB         | [Linear Regression](#4-linear-regression) |
 | 5  | Mo 15 Jul  | JB         | [Classification](#5-classification) |
 | 6  | Tu 16 Jul  | JB         | [Non-linear models and tree-based methods](#6-non-linear-models-and-tree-based-methods) |
-| 7  | We 17 Jul  | JB         | [Resampling methods, model selection and regularization](#7-resampling-methods-model-selection-and-regularization) |
-| 8  | Th 18 Jul   | JB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
+| 7  | We 17 Jul  | KB         | [Resampling methods, model selection and regularization](#7-resampling-methods-model-selection-and-regularization) |
+| 8  | Th 18 Jul   | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
 | 9  | Mo 22 Jul   | JB         | [Text analysis](#9-text-analysis) |
 | 10 | Tu 23 Jul   | JB         | [Text classification and scaling](#10-text-classification-and-scaling) |
 | 11 | We 24 Jul   | JB         | [Topic modelling](#11-topic-modelling)|
