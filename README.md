@@ -268,7 +268,7 @@ Logistic regression, Naive Bayes, evaluating model performance.
 
 * [Lab 5 materials (Midterm)](https://lse-me314.github.io/assignment05/)
 
-The **mid-term exam** will be posted on [Moodle](https://shortcourses.lse.ac.uk/course/view.php?id=158).
+The **mid-term exam** will be submitted on [Moodle](https://shortcourses.lse.ac.uk/course/view.php?id=158).
 
 ##### Required Reading
 
