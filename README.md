@@ -362,7 +362,7 @@ Cluster analysis, PCA
 
 #### 9. Text analysis
 
-Working with text in R, sentiment analysis, dictionary methods.
+Working with text in R, dictionary methods.
 
 ##### Resources
 
@@ -386,9 +386,9 @@ Working with text in R, sentiment analysis, dictionary methods.
 
 ***
 
-#### 10. Text classification and scaling
+#### 10. Similarity Metrics and Supervised Learning for Text
 
-Naive Bayes classifier, Wordscores, and Wordfish.
+Vector space model, tf-idf, cosine similarity, Naive Bayes classification.
 
 ##### Resources
 
@@ -401,25 +401,21 @@ Naive Bayes classifier, Wordscores, and Wordfish.
 
 ##### Required reading
 
-Laver, M., Benoit, K., & Garry, J. (2003). Extracting Policy Positions from Political Texts Using Words as Data. American Political Science Review, 97(2), 311-331. doi:10.1017/S0003055403000698
+J. Grimmer, M. E. Roberts, and B. M. Stewart., Text as Data: A New Framework for Machine Learning and the Social Sciences., Princeton University Press, 2022. – Chapters 7 and 11
 
-Slapin, J. B. and Proksch, S. (2008), A Scaling Model for Estimating Time‐Series Party Positions from Texts. American Journal of Political Science, 52: 705-722. doi:10.1111/j.1540-5907.2008.00338.x
 
 ##### Recommended Reading
 
 * [Statsoft, "Naive Bayes Classifier Introductory Overview."](http://www.statsoft.com/textbook/naive-bayes-classifier)
+* A. Hager and H. Hilbig., “Does public opinion affect political speech?”, In: American Journal of Political Science 64.4 (2020), pp. 921–937.
 * An [online article by Paul Graham on classifying spam e-mail](http://www.paulgraham.com/spam.html).
 * Bionicspirit.com, 9 Feb 2012, ["How to Build a Naive Bayes Classifier."](http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html)
-* Lowe, W. (2008). Understanding wordscores. Political Analysis, 16(4), 356-371.
-* Benoit, Kenneth and Paul Nulty. 2013. “Classification Methods for Scaling Latent Political Traits.”
-Presented at the Annual Meeting of the Midwest Political Science Association, April 11–14,
-Chicago.
 
 ***
 
 #### 11. Topic modelling
 
-Latent Dirichlet Allocation, Correlated Topic Model, Structural Topic Model.
+Latent Dirichlet Allocation, Structural Topic Model.
 
 ##### Resources
 
