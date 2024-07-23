@@ -366,7 +366,8 @@ Working with text in R, dictionary methods.
 
 ##### Resources
 
-* [Lecture Notes](lecturenotes/ME314_day9.pdf)
+* [Lecture Notes (pdf)](lecturenotes/ME314_day9.pdf)
+* [Lecture Notes (html)](lecturenotes/ME314_day9.html)
 * [Lab 9 materials](https://lse-me314.github.io/assignment09/)
 
 * Lab 9 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html). -->
@@ -393,7 +394,8 @@ Vector space model, tf-idf, cosine similarity, Naive Bayes classification.
 ##### Resources
 
 
-* [Lecture Notes](lecturenotes/ME314_day10.pdf)
+* [Lecture Notes (pdf)](lecturenotes/ME314_day10.pdf)
+* [Lecture Notes (html)](lecturenotes/ME314_day10.html)
 * [Lab 10 materials](https://lse-me314.github.io/assignment10/)
 
 * Lab 10 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html). -->
