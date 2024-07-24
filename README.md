@@ -162,7 +162,7 @@ We will use this session to get to know the range of interests and experience st
 * [Lecture Notes Part 2](lecturenotes/ME314_day1.2.pdf)
 * [Lab 1 materials](https://lse-me314.github.io/assignment01/)
 
-* Lab 1 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment1_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment1_solution.html) -->
+* Lab 1 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment1_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment1_solution.html)
 
 
 ##### Required reading
@@ -193,7 +193,7 @@ This week introduces the concept of data "beyond the spreadsheet", the rectangul
 * [Lab 2 materials](https://lse-me314.github.io/assignment02/)
 
 
-* Lab 2 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html). -->
+* Lab 2 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment2_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment2_solution.html).
 * [Reshaping data coding demo](other_resources/Reshaping-data-coding-demo.html)
 
 
@@ -219,7 +219,7 @@ This day will continue with data manipulation and reshaping.  We will cover alte
 * [Lab 3 materials](https://lse-me314.github.io/assignment03/)
 
 
-* Lab 3 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html). -->
+* Lab 3 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment3_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment3_solution.html).
 * [Database Normalisation Notes](other_resources/database_normalisation_notes.pdf)
 
 ##### Required reading
@@ -245,7 +245,7 @@ Linear regression model and supervised learning.
 * [Lab 4 materials](https://lse-me314.github.io/assignment04/)
 
 
-* Lab 4 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html). -->
+* Lab 4 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment4_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment4_solution.html).
 
 ##### Required Reading
 
@@ -290,7 +290,7 @@ GAMs, local regression, decision trees, random forest, bagging.
 
 * [Lecture Notes](lecturenotes/ME314_day6.pdf)
 * [Lab 6 materials](https://lse-me314.github.io/assignment06/)
-* Lab 6 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html). -->
+* Lab 6 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment6_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment6_solution.html). 
 
 
 ##### Required Reading
@@ -314,7 +314,7 @@ Cross-validation, bootstrap, ridge and lasso.
 * [Lecture Notes](lecturenotes/ME314_day7.pdf)
 * [Lab 7 materials](https://lse-me314.github.io/assignment07/)
 
-* Lab 7 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html). -->
+* Lab 7 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment7_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment7_solution.html).
 
 <!---
 
@@ -345,7 +345,7 @@ Cluster analysis, PCA
 * [Lab 8 materials](https://lse-me314.github.io/assignment08/)
 
 
-* Lab 8 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html). -->
+* Lab 8 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment8_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment8_solution.html).
 
 ##### Required reading
 
@@ -370,7 +370,7 @@ Working with text in R, dictionary methods.
 * [Lecture Notes (html)](lecturenotes/ME314_day9.html)
 * [Lab 9 materials](https://lse-me314.github.io/assignment09/)
 
-* Lab 9 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html). -->
+* Lab 9 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment9_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment9_solution.html).
 
 ##### Required reading
 
@@ -398,7 +398,7 @@ Vector space model, tf-idf, cosine similarity, Naive Bayes classification.
 * [Lecture Notes (html)](lecturenotes/ME314_day10.html)
 * [Lab 10 materials](https://lse-me314.github.io/assignment10/)
 
-* Lab 10 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html). -->
+* Lab 10 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment10_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment10_solution.html).
 
 
 ##### Required reading
@@ -426,7 +426,7 @@ Latent Dirichlet Allocation, Structural Topic Model.
 * [Lab 11 materials](https://lse-me314.github.io/assignment11/)
 
 
-* Lab 11 solution <!-- [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html). -->
+* Lab 11 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment11_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment11_solution.html). 
 
 
 ##### Required reading
@@ -450,8 +450,10 @@ APIs. Web scraping. Ethics.
 
 ##### Resources
 
-* <a href = 'lecturenotes/lecture_12.html'>Lecture Notes</a>
+* <a href = 'lecturenotes/ME314_day12.html'>Lecture Notes</a>
+* <a href = 'lecturenotes/lecture_12_old.html'>Lecture Notes from 2023 (APIs and Webscraping)</a>
 * [Lab 12 materials](https://lse-me314.github.io/assignment12/)
+* [Lab 12 materials from 2023 (Webscraping)](other_resources/me314-assignment12_2023.Rmd)
 
 <!---- * Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html). ---->
 
