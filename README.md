@@ -34,7 +34,7 @@ This repository contains the class materials for the [Research Methods, Data Sci
 | 7  | We 17 Jul  | KB         | [Resampling methods, model selection and regularization](#7-resampling-methods-model-selection-and-regularization) |
 | 8  | Th 18 Jul   | KB         | [Unsupervised learning and dimensional reduction](#8-unsupervised-learning-and-dimensional-reduction) |
 | 9  | Mo 22 Jul   | JB         | [Text analysis](#9-text-analysis) |
-| 10 | Tu 23 Jul   | JB         | [Text classification and scaling](#10-text-classification-and-scaling) |
+| 10 | Tu 23 Jul   | JB         | [Similarity Metrics and Supervised Learning for Text](#10-text-classification-and-scaling) |
 | 11 | We 24 Jul   | JB         | [Topic modelling](#11-topic-modelling)|
 | 12 | Th 25 Jul   | JB         | [Data from the Web](#12-data-from-the-web) |
 | 13 | Fr 28 Jul   |            | [Final Exam](#assessment) |
@@ -421,7 +421,8 @@ Latent Dirichlet Allocation, Structural Topic Model.
 
 ##### Resources
 
-* [Lecture Notes](lecturenotes/ME314_day11.pdf)
+* [Lecture Notes (pdf)](lecturenotes/ME314_day11.pdf)
+* [Lecture Notes (html)](lecturenotes/ME314_day11.html)
 * [Lab 11 materials](https://lse-me314.github.io/assignment11/)
 
 
