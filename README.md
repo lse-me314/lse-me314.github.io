@@ -36,7 +36,7 @@ This repository contains the class materials for the [Research Methods, Data Sci
 | 9  | Mo 22 Jul   | JB         | [Text analysis](#9-text-analysis) |
 | 10 | Tu 23 Jul   | JB         | [Similarity Metrics and Supervised Learning for Text](#10-text-classification-and-scaling) |
 | 11 | We 24 Jul   | JB         | [Topic modelling](#11-topic-modelling)|
-| 12 | Th 25 Jul   | JB         | [Data from the Web](#12-data-from-the-web) |
+| 12 | Th 25 Jul   | JB         | [Word-embeddings and Large Language Models](#12-data-from-the-web) |
 | 13 | Fr 28 Jul   |            | [Final Exam](#assessment) |
 
 
@@ -444,9 +444,9 @@ Latent Dirichlet Allocation, Structural Topic Model.
 
 ***
 
-#### 12. Data from the web
+#### 12. Word-Embeddings and Large Language Models
 
-APIs. Web scraping. Ethics. 
+Word-embeddings, n-gram models, transformers.
 
 ##### Resources
 
