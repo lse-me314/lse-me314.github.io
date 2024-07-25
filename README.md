@@ -450,9 +450,11 @@ Word-embeddings, n-gram models, transformers.
 
 ##### Resources
 
-* <a href = 'lecturenotes/ME314_day12.html'>Lecture Notes</a>
-* <a href = 'lecturenotes/lecture_12_old.html'>Lecture Notes from 2023 (APIs and Webscraping)</a>
+* <a href = 'lecturenotes/ME314_day12.html'>Lecture Notes (html)</a>
+* <a href = 'lecturenotes/ME314_day12.pdf'>Lecture Notes (pdf)</a>
 * [Lab 12 materials](https://lse-me314.github.io/assignment12/)
+
+* <a href = 'lecturenotes/lecture_12_old.html'>Lecture Notes from 2023 (APIs and Webscraping)</a>
 * [Lab 12 materials from 2023 (Webscraping)](other_resources/me314-assignment12_2023.Rmd)
 
 <!---- * Lab 12 solution [as RMarkdown](https://lse-me314.github.io/solutions/ME314_assignment12_solution.Rmd) or [as HTML](https://lse-me314.github.io/solutions/ME314_assignment12_solution.html). ---->
